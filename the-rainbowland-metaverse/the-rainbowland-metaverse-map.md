@@ -1,10 +1,10 @@
 ---
-description: Version 1.0
+description: Version 1.1.0
 ---
 
 # 🌆 The Rainbowland Metaverse Map
 
-<figure><img src="../.gitbook/assets/City.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_0175.GIF" alt="The Rainbowland Metaverse Map"><figcaption></figcaption></figure>
 
 ### ⚜️ Map Legend:
 
