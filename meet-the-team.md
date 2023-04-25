@@ -9,14 +9,19 @@ coverY: 0
 
 <div>
 
-<figure><img src=".gitbook/assets/Avatar.jpeg" alt=""><figcaption><p><em><mark style="color:blue;"><strong>NAVAJJOO</strong></mark></em><br>Enthusiast &#x26; Creative Mind. Game Development. Technical Advisor &#x26; Administrator of The Rainbowland Metaverse.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Avatar.jpeg" alt="The Multitalented Dev and Artist Driving Innovation in the Metaverse"><figcaption><p><em><mark style="color:blue;"><strong>NAVAJJOO</strong></mark></em><br>The Multitalented Dev and Artist Driving Innovation in the Metaverse</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Avatar 4.webp" alt=""><figcaption><p><em><mark style="color:orange;"><strong>CHEROKKEE</strong></mark></em><br>Crypto Community Enthusiast &#x26; Coder.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Avatar 4.webp" alt="The Creative Crypto Enthusiast Driving Game Development Forward"><figcaption><p><em><mark style="color:orange;"><strong>CHEROKKEE</strong></mark></em><br>The Creative Crypto Enthusiast Driving Game Development Forward</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Avatar 3.webp" alt=""><figcaption><p><em><mark style="color:green;"><strong>FREIDRICH</strong></mark></em><br>Marketing &#x26; Listing Exchanges. Game Coins Dev.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Avatar 3.webp" alt="The Mastermind Developer Behind Rainbowland Metaverse"><figcaption><p><em><mark style="color:green;"><strong>FREIDRICH</strong></mark></em><br>The Mastermind Developer Behind Rainbowland Metaverse</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/1.png" alt="The Creative Design Guru of Our Project Team"><figcaption><p><mark style="color:orange;"><strong>LANDLORD</strong></mark><br>The Creative Design Guru of Our Project Team</p></figcaption></figure>
 
 </div>
+
