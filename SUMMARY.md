@@ -6,7 +6,7 @@
 ## 🏙 The Rainbowland Metaverse
 
 * [💭 The Vision](the-rainbowland-metaverse/the-vision.md)
-* [🌆 The Rainbowland Metaverse](the-rainbowland-metaverse/the-rainbowland-metaverse.md)
+* [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)
 * [🏪 The Rainbowland Metaverse Fashion Emporium](the-rainbowland-metaverse/the-rainbowland-metaverse-fashion-emporium.md)
 * [☕ Support the Development of The Rainbowland Metaverse](the-rainbowland-metaverse/support-the-development-of-the-rainbowland-metaverse.md)
 

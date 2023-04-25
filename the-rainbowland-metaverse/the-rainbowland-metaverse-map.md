@@ -1,8 +1,8 @@
 ---
-description: Cronos Version 1.0
+description: Version 1.0
 ---
 
-# 🌆 The Rainbowland Metaverse
+# 🌆 The Rainbowland Metaverse Map
 
 <figure><img src="../.gitbook/assets/City.png" alt=""><figcaption></figcaption></figure>
 
