@@ -8,8 +8,6 @@ $RaVerse on Polygon is our first coin, designed to provide lightning-fast transa
 
 Next, we have $RaVerse on Cronos, our coin designed for the Cronos network. With its emphasis on interoperability and cross-chain compatibility, $RaVerse on Cronos is perfect for users who want to seamlessly move between the Rainbowland Metaverse and other blockchain-based applications.
 
-Finally, we have $PRIDE on Ethereum - our flagship coin that represents everything that the Rainbowland Metaverse stands for. As the official currency of the Metaverse, $PRIDE provides users with a way to engage with our community, purchase virtual goods and services, and express their support for inclusivity, diversity, and acceptance.
-
-So why do we need three different coins on different chains? The answer is simple - we want to give our users the best possible experience. By leveraging the unique strengths of different blockchain networks, we can provide users with fast, cheap, and seamless transactions, all while maintaining the integrity of the Rainbowland Metaverse ecosystem.
+So why do we need two different coins on different chains? The answer is simple - we want to give our users the best possible experience. By leveraging the unique strengths of different blockchain networks, we can provide users with fast, cheap, and seamless transactions, all while maintaining the integrity of the Rainbowland Metaverse ecosystem.
 
 Whether you're a casual user looking to explore our vibrant online world or a seasoned investor looking for an exciting new opportunity, we invite you to join us on this journey. With our three unique coins and a passionate community behind us, we're confident that the Rainbowland Metaverse will continue to grow and thrive for years to come.

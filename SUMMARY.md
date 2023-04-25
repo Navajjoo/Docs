@@ -22,9 +22,6 @@
     * [ℹ What is $RaVerse coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/what-is-usdraverse-coin.md)
     * [🏭 What is $RaVerse used for?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/what-is-usdraverse-used-for.md)
     * [✈ $RaVerse Migration](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/usdraverse-migration.md)
-  * [🌿 $PRIDE - Ethereum chain](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdpride-ethereum-chain/README.md)
-    * [ℹ What is $PRIDE coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdpride-ethereum-chain/what-is-usdpride-coin.md)
-    * [🏭 What is $PRIDE used for?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdpride-ethereum-chain/what-is-usdpride-used-for.md)
 * [🏦 Tokenomics & Distribution](tokenomics-and-distribution/README.md)
   * [🎁 Rewards for The Rainbowland Metaverse NFT Holders](tokenomics-and-distribution/rewards-for-the-rainbowland-metaverse-nft-holders.md)
 
