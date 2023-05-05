@@ -29,5 +29,4 @@
 
 ## 💁 The Rainbowland Metaverse, additional
 
-* [🏡 Buying a Lands, Houses, Assets & Avatars](the-rainbowland-metaverse-additional/buying-a-lands-houses-assets-and-avatars.md)
 * [🛣 Roadmap 2023 - 2025](the-rainbowland-metaverse-additional/roadmap-2023-2025.md)
