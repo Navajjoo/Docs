@@ -1,4 +1,4 @@
-# 🏡 The Metaverse Houses and Assets
+# 🏡 The Metaverse HOUSEs and ASSETs
 
 Welcome to the Rainbowland Metaverse, where creativity and innovation come to life! In addition to our LANDs sale, we're excited to introduce our virtual Houses and Assets, designed to enrich your experience in this immersive virtual world.
 

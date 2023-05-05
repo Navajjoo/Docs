@@ -3,16 +3,18 @@
 * [😎 Welcome](README.md)
 * [🕵♂ Meet the Team](meet-the-team.md)
 
-## 🏙 The Rainbowland Metaverse
+## 🏙 The Rainbowland Metaverse Information
 
-* [🏝 The Rainbowland Metaverse LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/README.md)
-  * [✈ Distribution of LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/distribution-of-lands.md)
-* [🏡 The Metaverse Houses and Assets](the-rainbowland-metaverse/the-metaverse-houses-and-assets/README.md)
-  * [Distribution of HOUSEs and ASSETs](the-rainbowland-metaverse/the-metaverse-houses-and-assets/distribution-of-houses-and-assets.md)
-* [💭 The Vision](the-rainbowland-metaverse/the-vision.md)
-* [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)
-* [🏪 The Rainbowland Metaverse Fashion Emporium](the-rainbowland-metaverse/the-rainbowland-metaverse-fashion-emporium.md)
-* [☕ Support the Development of The Rainbowland Metaverse](the-rainbowland-metaverse/support-the-development-of-the-rainbowland-metaverse.md)
+* [🏝 The Rainbowland Metaverse LANDs](the-rainbowland-metaverse-information/the-rainbowland-metaverse-lands/README.md)
+  * [✈ Distribution of LANDs](the-rainbowland-metaverse-information/the-rainbowland-metaverse-lands/distribution-of-lands.md)
+* [🏡 The Metaverse HOUSEs and ASSETs](the-rainbowland-metaverse-information/the-metaverse-houses-and-assets/README.md)
+  * [Distribution of HOUSEs and ASSETs](the-rainbowland-metaverse-information/the-metaverse-houses-and-assets/distribution-of-houses-and-assets.md)
+* [🌎 Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marv/README.md)
+  * [☀ Distribution of Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marv/distribution-of-milky-way-marvels-marv.md)
+* [💭 The Vision](the-rainbowland-metaverse-information/the-vision.md)
+* [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse-information/the-rainbowland-metaverse-map.md)
+* [🏪 The Rainbowland Metaverse Fashion Emporium](the-rainbowland-metaverse-information/the-rainbowland-metaverse-fashion-emporium.md)
+* [☕ Support the Development of The Rainbowland Metaverse](the-rainbowland-metaverse-information/support-the-development-of-the-rainbowland-metaverse.md)
 
 ***
 
