@@ -4,8 +4,8 @@ Welcome to the Rainbowland Metaverse LANDs sale! We are excited to introduce our
 
 To achieve this, we've designed the Rainbowland Metaverse using a two-layer structure:
 
-[**Layer 1: The Rainbowland Metaverse LANDs on Cryptocom NFT Marketplace**](https://crypto.com/nft/collection/3faa85afc4d85ccd2f6109828bb3e49a), built on the Cronos blockchain. \
-[**Layer 2: The Rainbowland Metaverse LANDs on Polygon blockchain**](https://opensea.io/collection/the-rainbowland), accessible through OpenSea and Rarible marketplaces.
+[<mark style="color:blue;">**Layer 1: The Rainbowland Metaverse LANDs on Cryptocom NFT Marketplace**</mark>](https://crypto.com/nft/collection/3faa85afc4d85ccd2f6109828bb3e49a), built on the Cronos blockchain. \
+[<mark style="color:purple;">**Layer 2: The Rainbowland Metaverse LANDs on Polygon blockchain**</mark>](https://opensea.io/collection/the-rainbowland), accessible through OpenSea and Rarible marketplaces.
 
 Each land parcel measures 16m x 16m (256 sq.m. or 2755 sq.ft., equivalent to 0.063 acres).
 

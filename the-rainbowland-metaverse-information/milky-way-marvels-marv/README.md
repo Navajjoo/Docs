@@ -1,15 +1,26 @@
 # 🌎 Milky Way Marvels (MARV)
 
-Greetings from the Rainbowland Metaverse development team! We understand the importance of ensuring a smooth and hassle-free experience for our users, particularly when it comes to the distribution of Crypto Planets (Layer 1) to Milky Way Marvels (MARV) (Layer 2) on the Polygon blockchain.
+Welcome to the Rainbowland Metaverse Milky Way Marvels (MARV) sale! We are excited to introduce our innovative virtual world, powered by advanced AI technology, offering endless opportunities for play, education, and entertainment. Our vision is to create an immersive and vibrant ecosystem where people can explore, learn, have fun, and earn rewards.
 
-To make this process as simple as possible, we've designed a user-friendly and automated system. Here's how it works:
+To achieve this, we've designed the Rainbowland Metaverse using a two-layer structure:
 
-1. Once users successfully purchase Crypto Planets on Layer 1 (Cronos) via the Crypto.com NFT Marketplace, our system will automatically detect the ownership of these unique virtual planets.
-2. The system will then cross-reference the ownership information with the corresponding Milky Way Marvels collections on Layer 2 (Polygon).
-3. Users who own Crypto Planets on Layer 1 will be eligible to access the equivalent Layer 2 Milky Way Marvels, which may vary in design or features, offering a diverse range of options. Our smart contract will facilitate the distribution, ensuring the process is secure and transparent.
+[<mark style="color:blue;">**Layer 1: The Rainbowland Metaverse Crypto Planets on Crypto.com NFT Marketplace, built on the Crypto.org Chain.**</mark> ](https://crypto.com/nft/collection/a0c187dd7b67666acdc6644b95e1f177)\
+[<mark style="color:purple;">**Layer 2: The Rainbowland Metaverse Milky Way Marvels (MARV) on Polygon blockchain, accessible through OpenSea and Rarible marketplaces.**</mark>](https://opensea.io/collection/milky-way-marvels)
 
-For example, if a member owns a collection of 3 Crypto Planets on Layer 1, they will be able to access the corresponding Layer 2 Milky Way Marvels. This process will be seamless and won't require any additional input from the user.
+Each Crypto Planet and Milky Way Marvel is a unique and valuable NFT collectible within the Rainbowland Metaverse.
 
-By implementing this straightforward and efficient system, we aim to enhance user experience and facilitate a seamless transition between the two layers, allowing our users to fully enjoy the benefits and opportunities offered by the Rainbowland Metaverse.
+The MARV sale will be conducted in four stages: Early Bid, Main Bid, Exclusive, and Public Sale, with each stage offering unique opportunities and benefits.
 
-We are committed to ensuring the best experience for our community members as they explore, learn, and have fun in the Rainbowland Metaverse. Thank you for your support, and we look forward to seeing you in our virtual world!
+But why are we using two different blockchains for Layer 1 and Layer 2?
+
+The reason for this decision lies in the unique advantages offered by each blockchain:
+
+Crypto.org Chain (Layer 1): The Crypto.org Chain is a fast, secure, and scalable blockchain that allows for seamless integration with Crypto.com's NFT Marketplace. By utilizing the Crypto.org Chain, we can offer a more streamlined experience for our users, while also capitalizing on the growing popularity of the Crypto.com ecosystem.
+
+Polygon (Layer 2): Polygon is a well-known Layer 2 scaling solution for Ethereum, enabling faster and cheaper transactions. By incorporating Polygon, we can expand our reach to include popular NFT marketplaces like OpenSea and Rarible, providing our users with more options to trade and interact with their Milky Way Marvels (MARV).
+
+To support development and encourage adoption, we will pre-mint a limited number of Milky Way Marvels (MARV) on Layer 2 (Polygon) and distribute them for free to owners of the corresponding Crypto Planets on Layer 1 (Crypto.org Chain) via the Crypto.com NFT Marketplace.
+
+This dual-layer approach allows us to combine the best of both worlds - the security and integration of the Crypto.org Chain, and the speed and cost-efficiency of Polygon, ensuring a seamless, immersive, and rewarding experience for our users in the Rainbowland Metaverse.
+
+Join us today and become a part of the Metaverse Ecosystem with limitless possibilities!
