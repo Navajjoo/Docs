@@ -6,9 +6,6 @@ description: Where to buy Metaverse NFTs
 
 ⚜️ If you'd like The Rainbowland Metaverse, you can get beautiful lands, houses and assets on the Crypto.com NFT Marketplace with new listings or secondary market on the following platforms.
 
-⚜️ Get a Rainbowland Lands:\
-[https://crypto.com/nft/collection/3faa85afc4d85ccd2f6109828bb3e49a](https://crypto.com/nft/collection/3faa85afc4d85ccd2f6109828bb3e49a)
-
 ⚜️ Get The Rainbowland Houses & Assets:\
 [https://crypto.com/nft/collection/f956c00b0ced8d061771050bb407476c](https://crypto.com/nft/collection/f956c00b0ced8d061771050bb407476c)\
 \
