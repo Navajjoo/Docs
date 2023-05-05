@@ -7,6 +7,8 @@
 
 * [🏝 The Rainbowland Metaverse LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/README.md)
   * [✈ Distribution of LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/distribution-of-lands.md)
+* [🏡 The Metaverse Houses and Assets](the-rainbowland-metaverse/the-metaverse-houses-and-assets/README.md)
+  * [Distribution of HOUSEs and ASSETs](the-rainbowland-metaverse/the-metaverse-houses-and-assets/distribution-of-houses-and-assets.md)
 * [💭 The Vision](the-rainbowland-metaverse/the-vision.md)
 * [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)
 * [🏪 The Rainbowland Metaverse Fashion Emporium](the-rainbowland-metaverse/the-rainbowland-metaverse-fashion-emporium.md)
