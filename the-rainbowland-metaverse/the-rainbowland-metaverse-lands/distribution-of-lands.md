@@ -2,7 +2,7 @@
 description: Distribution of Layer 1 to Layer 2
 ---
 
-# Distribution of LANDs
+# ✈ Distribution of LANDs
 
 Greetings from the Rainbowland Metaverse development team! We understand the importance of ensuring a smooth and hassle-free experience for our users, especially when it comes to the distribution of LANDs from Layer 1 (Cronos) to Layer 2 (Polygon).
 
