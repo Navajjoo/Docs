@@ -4,8 +4,8 @@ Welcome to the Rainbowland Metaverse Golden Apes sale! We are excited to introdu
 
 To achieve this, we've designed the Rainbowland Metaverse using a two-layer structure:
 
-Layer 1: The Rainbowland Metaverse Golden Apes on Crypto.com NFT Marketplace, built on the Crypto.org Chain.\
-Layer 2: The Rainbowland Metaverse Golden Apes on Polygon blockchain, accessible through OpenSea and Rarible marketplaces.
+[<mark style="color:blue;">**Layer 1: The Rainbowland Metaverse Golden Apes on Crypto.com NFT Marketplace, built on the Crypto.org Chain.**</mark>](https://crypto.com/nft/collection/4cca36a2a2e3388b2a5389029e2562c0)\
+[<mark style="color:purple;">**Layer 2: The Rainbowland Metaverse Golden Apes on Polygon blockchain, accessible through OpenSea and Rarible marketplaces.**</mark>](https://opensea.io/collection/golden-ape-gold)
 
 Each Golden Ape is a unique and valuable NFT collectible within the Rainbowland Metaverse.
 
