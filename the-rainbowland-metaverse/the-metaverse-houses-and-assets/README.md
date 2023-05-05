@@ -4,7 +4,7 @@ Welcome to the Rainbowland Metaverse, where creativity and innovation come to li
 
 Our unique two-layer structure allows us to offer a diverse range of Houses and Assets, while catering to the preferences of our users across different blockchains:
 
-Layer 1: Houses and Assets on the Cronos blockchain (Crypto.com NFT Marketplace) Layer 2: Separate collections of Houses and Assets on the Polygon blockchain (OpenSea and Rarible marketplaces)
+[**Layer 1: Houses and Assets on the Cronos blockchain (Crypto.com NFT Marketplace)** ](https://crypto.com/nft/collection/f956c00b0ced8d061771050bb407476c)Layer 2: Separate collections of Houses and Assets on the Polygon blockchain (OpenSea and Rarible marketplaces)
 
 Here's a brief overview of Houses and Assets in both layers:
 
