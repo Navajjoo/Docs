@@ -36,23 +36,18 @@ The goal for this stage is to raise $300,000. This is an exclusive opportunity f
 
 👉 Remember to double-check your wallet address before finalizing the purchase. If you have any questions or concerns, our support team is always here to help.
 
-* [Get $500 in $Raverse with price $0.0001](https://commerce.coinbase.com/checkout/9460fd87-97f8-4314-8836-d1510316a8d2)
-* [Get $100 in $Raverse with price $0.0001](https://commerce.coinbase.com/checkout/f5fbd193-ace6-41da-b3c6-69c359b77ab7)
-* [Get $50 in $Raverse with price $0.0001](https://commerce.coinbase.com/checkout/11615370-ac64-4ed8-b980-fb752476250d)
-* [Get $20 in $Raverse with price $0.0001](https://commerce.coinbase.com/checkout/bd201b0e-0856-48e2-b82b-2dd301517cc1)
-* [Get $5 in $Raverse with price $0.0001](https://commerce.coinbase.com/checkout/dea08f21-b889-4db7-bd5a-4cb7ca621be6)
-
 ## ⚜️ Public PreSale date: March 01, 2023
 
-2️⃣ **Public PreSale:** This stage will be open to the public and will allow participants to purchase $RaVerse at a price of $0.002 per token. Public PreSale will start on 1st of March and will last until 31 March 2023.
+2️⃣ **Public PreSale:** This stage will be open to the public and will allow participants to purchase $RaVerse at a price of $0.002 per token. Public PreSale will start on 1st of March and will last until 31 June 2023.
 
-<mark style="color:orange;">The price for this stage is set at</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**$0.002**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">per $RaVerse, and the volume to be sold is 100.000.000.</mark>
+<mark style="color:orange;">The price for this stage is set at</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**$0.002**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">per $RaVerse, and the volume to be sold is 100.000.000.</mark>\
+\ <mark style="color:orange;">Coinbase payment link:</mark> [<mark style="color:orange;">https://commerce.coinbase.com/checkout/9ef777e3-f664-4fd7-b110-09f7328c9315</mark>](https://commerce.coinbase.com/checkout/9ef777e3-f664-4fd7-b110-09f7328c9315)
 
 The goal for this stage is to raise $200,000. This stage is an opportunity for all interested investors to purchase $RaVerse tokens before they become available on public exchanges.
 
-## ⚜️ Pool Sale date: April 01, 2023
+## ⚜️ Pool Sale date: Jule 01, 2023
 
-3️⃣ **Public Pool PreSale:** In this stage, participants will be able to purchase $RaVerse at a price of $0.01 per token through the Uniswap pool. The public pool PreSale will start on 1st of April 2023.
+3️⃣ **Public Pool PreSale:** In this stage, participants will be able to purchase $RaVerse at a price of $0.01 per token through the Uniswap pool. The public pool PreSale will start on 1st of Jule 2023.
 
 <mark style="color:purple;">The goal for this stage is to start with a pool of $275,000 liquidity of $RaVerse.</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**With $0.01 $RaVerse price in Pool.**</mark>
 
