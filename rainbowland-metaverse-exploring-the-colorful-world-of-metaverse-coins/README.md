@@ -1,6 +1,6 @@
 # 🌈 Rainbowland Metaverse: Exploring the Colorful World of Metaverse Coins
 
-Welcome to The Rainbowland Metaverse - a vibrant and inclusive online world where creativity, diversity, and acceptance thrive. As part of our commitment to providing the best possible experience for our users, we're excited to introduce you to our three unique coins - $RaVerse on Polygon, $RaVerse on Cronos, and $PRIDE on Ethereum.
+Welcome to The Rainbowland Metaverse - a vibrant and inclusive online world where creativity, diversity, and acceptance thrive. As part of our commitment to providing the best possible experience for our users, we're excited to introduce you to our two unique coins - $RaVerse on Polygon, $RaVerse on Cronos.
 
 Each of these coins plays a critical role in the Rainbowland Metaverse ecosystem, providing users with the flexibility and convenience to transact and engage with the Metaverse in a way that suits them best.
 
