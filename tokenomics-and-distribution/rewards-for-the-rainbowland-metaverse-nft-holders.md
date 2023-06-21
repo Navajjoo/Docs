@@ -38,4 +38,7 @@ The same goes for owning 3, 4, 10, 20, etc, total NFTs.
 
 ### ⚜️ How can I participate in the claim?
 
-The Rainbowland Metaverse NFT owners will be receiving $RaVerse through claiming to kick-off our in-game ecosystem.
+The Rainbowland Metaverse NFT owners will be receiving $RaVerse through claiming to kick-off our in-game ecosystem.\
+\
+**The Rainbowland Metaverse Distribution**\
+[https://www.claim.rainbowland.org/](https://www.claim.rainbowland.org/)

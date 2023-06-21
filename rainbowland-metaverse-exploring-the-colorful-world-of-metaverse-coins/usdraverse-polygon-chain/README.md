@@ -8,7 +8,7 @@ $RaVerse is a digital currency that operates on the blockchain technology, allow
 
 For a limited time, you can purchase $RaVerse at a discounted price of $0.002. With $RaVerse, you can explore and participate in the exciting world of metaverse coins, including purchasing virtual land, in-game items, and other digital assets. Don't miss out on this opportunity to be a part of the growing metaverse ecosystem!\
 \
-Get $RaVerse with Coinbase Payment: [https://www.raverse.rainbowland.org/](https://www.raverse.rainbowland.org/)
+Get $RaVerse with UNISWAP: [https://www.raverse.rainbowland.org/](https://www.raverse.rainbowland.org/)
 
 As a utility token, $RaVerse has multiple functions within the metaverse ecosystem. It can be used to purchase digital assets, such as virtual land or in-game items, or to pay for services within the metaverse. Additionally, $RaVerse can be staked to earn rewards and participate in governance decisions within the metaverse community.
 
