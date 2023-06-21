@@ -13,6 +13,13 @@ description: Version 1.1.0
 * Wooden banner - Land is Sold Out
 * Blue - Ocean
 
+
+
+* X: -100 up to 500
+* Y: -100 up to 500
+* Total: 361201 LANDs
+* 1 Land = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
+
 ## ⚜️ Districts**:**
 
 * **The City:** experience the pulse of the metaverse at The City, the capital of Rainbowland Metaverse. This bustling metropolis is the center of commerce, culture, and innovation in the virtual world. Explore its towering skyscrapers, bustling streets, and cutting-edge technology. From world-class shopping to top-notch entertainment, The City has everything you could possibly want. Meet new friends, network with like-minded individuals, and discover the endless opportunities that await you in this dynamic virtual world. Whether you're looking for an urban escape or a hub of innovation, The City is the ultimate destination in Rainbowland Metaverse. Come and see what all the buzz is about!
