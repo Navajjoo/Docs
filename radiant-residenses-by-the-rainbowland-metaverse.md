@@ -8,9 +8,9 @@ Tap link below to mint it now, currently active stage with payment in $RAVERSE:\
 <figure><img src=".gitbook/assets/Screenshot 2023-07-05 at 17.30.57.png" alt=""><figcaption><p>Mint it: <a href="https://rr.rainbowland.org/">https://rr.rainbowland.org/</a></p></figcaption></figure>
 
 Tap link below to get your $RAVERSE, on Exchange or with "Pay with Coinbase":\
-[https://www.raverse.rainbowland.org/](https://www.raverse.rainbowland.org/)\
-\
+[https://www.raverse.rainbowland.org/](https://www.raverse.rainbowland.org/)
 
+<figure><img src=".gitbook/assets/Screenshot 2023-07-05 at 22.17.46.png" alt=""><figcaption><p>Get $RAVERSE: <a href="https://www.raverse.rainbowland.org/">https://www.raverse.rainbowland.org/</a></p></figcaption></figure>
 
 **Radiant Residences (RAD)** is an awe-inspiring building situated in the heart of the Rainbowland Metaverse, specifically in The City district. This architectural marvel represents a collection of 1,200 luxurious apartments, penthouses, offices, and stores spread across an impressive 108 floors. With one side of the building overlooking the vast sea and the other three sides embracing the bustling urban landscape, Radiant Residences offers a truly captivating living and working experience.
 
@@ -28,8 +28,7 @@ Step into the immersive world of Rainbowland and embrace the chance to reap the 
 
 **Stage 2: Only 3 Days.** Limited Minting with $RAVERSE During the second stage, individuals have the opportunity to mint their own Radiant Residences NFTs by exchanging 850,000 $RAVERSE, the official currency of the Rainbowland Metaverse. However, to maintain exclusivity, there is a limit of 10 NFTs per wallet, allowing for a fair distribution and scarcity within the community.
 
-**Stage 3:** Public Minting with CRO In the final stage, public minting of Radiant Residences NFTs is made accessible to a broader audience. The cost of minting during this stage is 100 CRO, another digital currency, and each wallet is limited to minting a maximum of 100 NFTs. This encourages wider participation and ensures a diverse ownership of these coveted assets.\
-
+**Stage 3:** Public Minting with CRO In the final stage, public minting of Radiant Residences NFTs is made accessible to a broader audience. The cost of minting during this stage is 100 CRO, another digital currency, and each wallet is limited to minting a maximum of 100 NFTs. This encourages wider participation and ensures a diverse ownership of these coveted assets.
 
 Join the Radiant Residences minting journey, secure your piece of Rainbowland's luxurious architectural marvels, and embrace the exclusive opportunities within the vibrant metaverse.
 
@@ -38,7 +37,6 @@ Join the Radiant Residences minting journey, secure your piece of Rainbowland's 
 * **Staking Reward:** Each Radiant Residences NFT provides a generous staking reward of 50 $RAVERSE per hour. By holding and staking these NFTs, participants can enjoy a steady stream of passive income as they contribute to the vibrant Rainbowland Metaverse.
 * **Listing and Verification on Ebisusbay.com:** Radiant Residences NFTs undergo a comprehensive listing and verification process on ebisusbay.com, ensuring transparency, authenticity, and trust for buyers and collectors. With their presence on this reputable marketplace, Radiant Residences NFTs gain visibility and accessibility to a wide range of interested individuals.
 * **Listing and Verification on Crypto.com NFT:** Radiant Residences NFTs are also listed and verified on Crypto.com NFT, a prominent platform known for its dedication to security and user experience. This additional listing expands the exposure of Radiant Residences to a diverse community of collectors, enhancing their marketability and potential for value appreciation.
-*
 
 By minting and holding Radiant Residences NFTs, participants not only benefit from the attractive staking rewards but also gain the assurance of verified listings on both ebisusbay.com and Crypto.com NFT. Immerse yourself in the captivating Rainbowland Metaverse, unlock passive income streams, and explore a world of endless possibilities with Radiant Residences.
 
