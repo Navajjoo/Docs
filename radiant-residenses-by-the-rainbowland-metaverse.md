@@ -12,7 +12,13 @@ Tap link below to get your $RAVERSE, on Exchange or with "Pay with Coinbase":\
 
 <figure><img src=".gitbook/assets/Screenshot 2023-07-05 at 22.17.46.png" alt=""><figcaption><p>Get $RAVERSE: <a href="https://www.raverse.rainbowland.org/">https://www.raverse.rainbowland.org/</a></p></figcaption></figure>
 
-**Radiant Residences (RAD)** is an awe-inspiring building situated in the heart of the Rainbowland Metaverse, specifically in The City district. This architectural marvel represents a collection of 1,200 luxurious apartments, penthouses, offices, and stores spread across an impressive 108 floors. With one side of the building overlooking the vast sea and the other three sides embracing the bustling urban landscape, Radiant Residences offers a truly captivating living and working experience.
+**Get $RAVERSE on MintMe.com Exchange:**
+
+<figure><img src=".gitbook/assets/Screenshot 2023-07-05 at 22.26.15.png" alt=""><figcaption><p>Get $RAVERSE on MintMe Exchange: <a href="https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade">https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade</a></p></figcaption></figure>
+
+## **About Radiant Residences Apartments and** Luminary Yield staking
+
+Radiant Residences (RAD) is an awe-inspiring building situated in the heart of the Rainbowland Metaverse, specifically in The City district. This architectural marvel represents a collection of 1,200 luxurious apartments, penthouses, offices, and stores spread across an impressive 108 floors. With one side of the building overlooking the vast sea and the other three sides embracing the bustling urban landscape, Radiant Residences offers a truly captivating living and working experience.
 
 By staking Radiant Residences (RAD) NFTs, participants unlock a gateway to a world of lucrative opportunities within the Rainbowland Metaverse. As a valued member of the Radiant community, your ownership of these prestigious properties allows you to tap into the immense potential for generating passive income.
 
@@ -20,7 +26,7 @@ Through the process of staking these NFTs, participants earn rewards in the form
 
 Step into the immersive world of Rainbowland and embrace the chance to reap the benefits of your staked Radiant Residences NFTs. Join Radiant Stakings today and become an integral part of the flourishing Rainbowland community while unlocking the potential for both financial growth and enchanting experiences.
 
-**Contract:** 0x3720cde69E4E997bbDeaEc7b4e7b5f8c3C40686
+Contract: 0x3720cde69E4E997bbDeaEc7b4e7b5f8c3C40686
 
 ## Radiant Residences Minting
 
