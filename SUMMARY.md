@@ -2,6 +2,7 @@
 
 * [😎 Welcome](README.md)
 * [🕵♂ Meet the Team](meet-the-team.md)
+* [Radiant Residenses by the Rainbowland Metaverse](radiant-residenses-by-the-rainbowland-metaverse.md)
 
 ## 🏙 The Rainbowland Metaverse Information
 
