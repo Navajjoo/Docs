@@ -1,20 +1,25 @@
-# Radiant Residenses by the Rainbowland Metaverse
+---
+cover: ../.gitbook/assets/IMG_2364.JPG
+coverY: 0
+---
+
+# 🏨 Radiant Residences by the Rainbowland Metaverse
 
 ## **Radiant Residences (RAD)**
 
 Tap link below to mint it now, currently active stage with payment in $RAVERSE:\
 [https://rr.rainbowland.org/](https://rr.rainbowland.org/)
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-05 at 17.30.57.png" alt=""><figcaption><p>Mint it: <a href="https://rr.rainbowland.org/">https://rr.rainbowland.org/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-07 at 3.50.30.png" alt=""><figcaption><p>Mint it: <a href="https://rr.rainbowland.org/">https://rr.rainbowland.org/</a></p></figcaption></figure>
 
-Tap link below to get your $RAVERSE, on Exchange or with "Pay with Coinbase":\
+Tap link below to get your $RAVERSE, on MintMe Exchange (not for US) or with "Pay with Coinbase"(Worldwide):\
 [https://www.raverse.rainbowland.org/](https://www.raverse.rainbowland.org/)
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-05 at 22.17.46.png" alt=""><figcaption><p>Get $RAVERSE: <a href="https://www.raverse.rainbowland.org/">https://www.raverse.rainbowland.org/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 22.17.46.png" alt=""><figcaption><p>Get $RAVERSE: <a href="https://www.raverse.rainbowland.org/">https://www.raverse.rainbowland.org/</a></p></figcaption></figure>
 
 **Get $RAVERSE on MintMe.com Exchange:**
 
-<figure><img src=".gitbook/assets/Screenshot 2023-07-05 at 22.26.15.png" alt=""><figcaption><p>Get $RAVERSE on MintMe Exchange: <a href="https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade">https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 22.26.15.png" alt=""><figcaption><p>Get $RAVERSE on MintMe Exchange: <a href="https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade">https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade</a></p></figcaption></figure>
 
 ## **About Radiant Residences Apartments and** Luminary Yield staking
 

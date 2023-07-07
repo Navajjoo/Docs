@@ -2,7 +2,8 @@
 
 * [😎 Welcome](README.md)
 * [🕵♂ Meet the Team](meet-the-team.md)
-* [Radiant Residenses by the Rainbowland Metaverse](radiant-residenses-by-the-rainbowland-metaverse.md)
+* [🏨 Radiant Residences by the Rainbowland Metaverse](radiant-residences-by-the-rainbowland-metaverse/README.md)
+  * [Instruction on how to mint](radiant-residences-by-the-rainbowland-metaverse/instruction-on-how-to-mint.md)
 
 ## 🏙 The Rainbowland Metaverse Information
 
