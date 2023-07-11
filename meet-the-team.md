@@ -17,7 +17,7 @@ coverY: 0
 
  
 
-<figure><img src=".gitbook/assets/Avatar 3.webp" alt="The Mastermind Developer Behind Rainbowland Metaverse" width="375"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FREIDRICH</strong></mark></em></a><br>The Mastermind Developer Behind Rainbowland Metaverse</p></figcaption></figure>
+<figure><img src=".gitbook/assets/21.png" alt="The Mastermind Developer Behind Rainbowland Metaverse" width="384"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FREIDRICH</strong></mark></em></a><br>The Mastermind Developer Behind Rainbowland Metaverse</p></figcaption></figure>
 
  
 
