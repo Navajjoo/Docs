@@ -9,19 +9,19 @@ coverY: 0
 
 <div>
 
-<figure><img src=".gitbook/assets/Avatar.jpeg" alt="The Multitalented Dev and Artist Driving Innovation in the Metaverse"><figcaption><p><a href="https://github.com/Navajjoo/"><em><mark style="color:blue;"><strong>NAVAJJOO</strong></mark></em></a><br>The Multitalented Dev and Artist Driving Innovation in the Metaverse</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Avatar.jpeg" alt="The Multitalented Dev and Artist Driving Innovation in the Metaverse" width="188"><figcaption><p><a href="https://github.com/Navajjoo/"><em><mark style="color:blue;"><strong>NAVAJJOO</strong></mark></em></a><br>The Multitalented Dev and Artist Driving Innovation in the Metaverse</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Avatar 4.webp" alt="The Creative Crypto Enthusiast Driving Game Development Forward"><figcaption><p><a href="https://github.com/Cherokkee888/"><em><mark style="color:orange;"><strong>CHEROKKEE</strong></mark></em></a><br>The Creative Crypto Enthusiast Driving Game Development Forward</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Anime Avatar Designer_cubism, cyberpunk, avatar, boy_image-0_1689097056.png" alt="The Creative Crypto Enthusiast Driving Game Development Forward" width="384"><figcaption><p><a href="https://github.com/Cherokkee888/"><em><mark style="color:orange;"><strong>CHEROKKEE</strong></mark></em></a><br>The Creative Crypto Enthusiast Driving Game Development Forward</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Avatar 3.webp" alt="The Mastermind Developer Behind Rainbowland Metaverse"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FREIDRICH</strong></mark></em></a><br>The Mastermind Developer Behind Rainbowland Metaverse</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Avatar 3.webp" alt="The Mastermind Developer Behind Rainbowland Metaverse" width="375"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FREIDRICH</strong></mark></em></a><br>The Mastermind Developer Behind Rainbowland Metaverse</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/1.png" alt="The Creative Design Guru of Our Project Team"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><mark style="color:orange;"><strong>LANDLORD</strong></mark></a><br>The Creative Design Guru of Our Project Team</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1.png" alt="The Creative Design Guru of Our Project Team" width="375"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><mark style="color:orange;"><strong>LANDLORD</strong></mark></a><br>The Creative Design Guru of Our Project Team</p></figcaption></figure>
 
 </div>
 

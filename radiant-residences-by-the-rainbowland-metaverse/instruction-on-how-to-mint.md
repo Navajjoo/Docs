@@ -1,4 +1,4 @@
-# Instruction on how to mint
+# ℹ Instruction on how to mint
 
 ## Start minting your very own piece of Rainbowland history! <a href="#e0cb" id="e0cb"></a>
 
