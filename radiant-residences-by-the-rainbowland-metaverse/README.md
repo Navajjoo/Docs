@@ -7,19 +7,31 @@ coverY: 0
 
 ## **Radiant Residences (RAD)**
 
-Tap link below to mint it now, currently active stage with payment in $RAVERSE:\
-[https://rr.rainbowland.org/](https://rr.rainbowland.org/)
+Radiant Residences is an awe-inspiring building situated in the heart of the Rainbowland Metaverse, specifically in The City district.\
+\
+This architectural marvel represents a collection of 1,200 luxurious apartments, penthouses, offices, and stores spread across an impressive 108 floors.\
+\
+With one side of the building overlooking the vast sea and the other three sides embracing the bustling urban landscape, Radiant Residences offers a truly captivating living and working experience.\
+\
+Ebisusbay Marketplace: [app.ebisusbay.com/collection/radiant-residences](https://app.ebisusbay.com/collection/radiant-residences)\
+\
+Mint, over: [rr.rainbowland.org](http://rr.rainbowland.org)\
+Blog: [blog.rainbowland.org](http://blog.rainbowland.org)\
+Learn more: [rainbowland.org](http://rainbowland.org)\
+\
+By staking Radiant Residences (RAD) NFTs, participants unlock a gateway to a world of lucrative opportunities within the Rainbowland Metaverse.\
+\
+As a valued member of the Radiant community, your ownership of these prestigious properties allows you to tap into the immense potential for generating passive income.\
+\
+Through the process of staking these NFTs, participants earn rewards in the form of [$RaVerse](https://diamondapp.com/u/RaVerse) (symbol: [$RaVerse](https://diamondapp.com/u/RaVerse)), the official currency of the Rainbowland Metaverse.\
+\
+These rewards not only reflect the vibrant economy of Rainbowland but also serve as a testament to your status as an esteemed property owner within the Radiant Residences.\
+\
+Step into the immersive world of Rainbowland and embrace the chance to reap the benefits of your staked Radiant Residences NFTs. Join Radiant Stakings today and become an integral part of the flourishing Rainbowland community while unlocking the potential for both financial growth and enchanting experiences.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-07 at 3.50.30.png" alt=""><figcaption><p>Mint it: <a href="https://rr.rainbowland.org/">https://rr.rainbowland.org/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-30 at 22.08.22.png" alt="Radiant Residences at Ebisusbay marketplace"><figcaption></figcaption></figure>
 
-Tap link below to get your $RAVERSE, on MintMe Exchange (not for US) or with "Pay with Coinbase"(Worldwide):\
-[https://www.raverse.rainbowland.org/](https://www.raverse.rainbowland.org/)
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 22.17.46.png" alt=""><figcaption><p>Get $RAVERSE: <a href="https://www.raverse.rainbowland.org/">https://www.raverse.rainbowland.org/</a></p></figcaption></figure>
-
-**Get $RAVERSE on MintMe.com Exchange:**
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 22.26.15.png" alt=""><figcaption><p>Get $RAVERSE on MintMe Exchange: <a href="https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade">https://www.mintme.com/token/The-Rainbowland-Metaverse/MINTME/trade</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-30 at 22.12.23.png" alt="Radiant Residences on Ebisusbay marketplace"><figcaption></figcaption></figure>
 
 ## **About Radiant Residences Apartments and** Luminary Yield staking
 
