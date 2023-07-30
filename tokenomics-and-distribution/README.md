@@ -8,7 +8,7 @@ coverY: 0
 
 ## ⚜️ Overview
 
-**$PRIDE (LGBTQ) on Ethereum chain**\
+<mark style="color:blue;">**$PRIDE (LGBTQ) on Ethereum chain**</mark>\
 **Max Total supply:** 1,000,000,000,000\
 **Total Supply:** 101,182,211,718,912\
 **Decimals:** 18
@@ -33,7 +33,11 @@ As the main currency in the Rainbowland Metaverse, $PRIDE serves as a symbol of 
 
 In summary, the $PRIDE coin is a powerful tool within the Rainbowland Metaverse, propelling the visibility, acceptance, and empowerment of LGBTQ individuals and organizations. Through its various applications, $PRIDE is not just a currency; it represents the collective strength and unity of the LGBTQ community, making a profound impact on the broader ecosystem. Together, let's build a world where diversity is celebrated, and everyone can live authentically and proudly. Welcome to the Rainbowland Metaverse!
 
-**$RAVERSE (The Rainbowland Metaverse) on Cronos and Polygon chain**\
+
+
+
+
+<mark style="color:blue;">**$RAVERSE (The Rainbowland Metaverse) on Cronos and Polygon chain**</mark>\
 **Total supply:** 38,000,000,000\
 **Decimals:** 18
 
