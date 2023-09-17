@@ -4,21 +4,20 @@ description: Version 1.1.0
 
 # 🌆 The Rainbowland Metaverse Map
 
-<figure><img src="../.gitbook/assets/IMG_0175.GIF" alt="The Rainbowland Metaverse Map"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Metaverse_Cronos_Image_small.jpg" alt="The Rainbowland Metaverse Map"><figcaption><p>409600 LANDs</p></figcaption></figure>
 
 ### ⚜️ Map Legend:
 
-* Green - not listed Lands
+* Green or other colors - not listed LANDs
 * Brown - Roads
-* Wooden banner - Land is Sold Out
 * Blue - Ocean
 
 
 
-* X: -100 up to 500
-* Y: -100 up to 500
-* Total: 361201 LANDs
-* 1 Land = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
+* X: -128 up to 511
+* Y: -128 up to 511
+* Total: 409600 LANDs
+* 1 LAND = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
 
 ## ⚜️ Districts**:**
 
@@ -47,6 +46,6 @@ description: Version 1.1.0
 
     So, if you are looking for a way to honor and remember your loved ones, come to The Digital Graveyard. Here, you can ensure that their memory will live on forever in the digital world. Join us in this exciting new chapter of the Rainbowland Metaverse and experience the power of perpetuating the digital identity of a person after their death.
 
-## ⚜️ Land Size**:**
+## ⚜️ LAND Size**:**
 
 1 Land = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre

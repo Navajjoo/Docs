@@ -2,20 +2,20 @@
 
 * [😎 Welcome](README.md)
 * [🕵♂ Meet the Team](meet-the-team.md)
-* [🏨 Radiant Residences by the Rainbowland Metaverse](radiant-residences-by-the-rainbowland-metaverse/README.md)
-  * [ℹ Instruction on how to mint](radiant-residences-by-the-rainbowland-metaverse/instruction-on-how-to-mint.md)
 
 ## 🏙 The Rainbowland Metaverse Information
 
 * [🏝 The Rainbowland Metaverse LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/README.md)
   * [✈ Distribution of LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/distribution-of-lands.md)
+* [🌎 Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marv/README.md)
+  * [☀ Distribution of Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marv/distribution-of-milky-way-marvels-marv.md)
+* [🏨 Radiant Residences by the Rainbowland Metaverse](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
+  * [ℹ Instruction on how to mint](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/instruction-on-how-to-mint.md)
 * [🏡 The Metaverse HOUSEs and ASSETs](the-rainbowland-metaverse-information/the-metaverse-houses-and-assets/README.md)
   * [Distribution of HOUSEs and ASSETs](the-rainbowland-metaverse-information/the-metaverse-houses-and-assets/distribution-of-houses-and-assets.md)
 * [👤 The Rainbowland Metaverse AVATARs](the-rainbowland-metaverse-information/the-rainbowland-metaverse-avatars.md)
 * [🙊 Golden Ape (GOLD)](the-rainbowland-metaverse-information/golden-ape-gold/README.md)
   * [🙉 Distribution of Golden Ape (GOLD)](the-rainbowland-metaverse-information/golden-ape-gold/distribution-of-golden-ape-gold.md)
-* [🌎 Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marv/README.md)
-  * [☀ Distribution of Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marv/distribution-of-milky-way-marvels-marv.md)
 * [🦁 Rainbow Creatures (CRE)](the-rainbowland-metaverse-information/rainbow-creatures-cre.md)
 * [💭 The Vision](the-rainbowland-metaverse/the-vision.md)
 * [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)

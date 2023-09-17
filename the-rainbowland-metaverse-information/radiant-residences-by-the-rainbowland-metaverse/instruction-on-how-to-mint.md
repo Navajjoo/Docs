@@ -26,34 +26,34 @@ As a valued member of the Radiant community, your ownership of these prestigious
 
 1. Go to [**Rainbowland Minting Page**](https://rr.rainbowland.org)
 
-<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 1. Choose your wallet (we are recommend MetaMask). Add Cronos network to your MetaMask wallet, if you don’t have it.
 
-<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2a.png" alt=""><figcaption><p>If you don’t have Cronos network at your MetaMask wallet, go ti Cronoscan.com and add it.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2a.png" alt=""><figcaption><p>If you don’t have Cronos network at your MetaMask wallet, go ti Cronoscan.com and add it.</p></figcaption></figure>
 
 3\. Choose amount to be minted, each one will cost 850K of [**$RAVERSE**](https://cronoscan.com/token/0xd504ab14f8a0eef1c2044b312aa645e027787e97)
 
-<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 4. Approve spending cap of $RAVERSE, you can choose any amount starting from 850K (because its cost this amount)
 
-<figure><img src="../.gitbook/assets/3, Aprove Raverse.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3, Aprove Raverse.png" alt=""><figcaption></figcaption></figure>
 
 5. Sign transaction to approve it (will ask you one time if you will choose max spending amount)
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 6. Sign next transaction, to mint NFT
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 7. Successfully minted
 
-<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 Follow for more story about The Rainbowland Metaverse. Next: Staking Instruction for Radiant Residences (RAD)

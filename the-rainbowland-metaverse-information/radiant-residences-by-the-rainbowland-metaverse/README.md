@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/IMG_2364.JPG
+cover: ../../.gitbook/assets/IMG_2364.JPG
 coverY: 0
 ---
 
@@ -33,9 +33,9 @@ These rewards not only reflect the vibrant economy of Rainbowland but also serve
 \
 Step into the immersive world of Rainbowland and embrace the chance to reap the benefits of your staked Radiant Residences NFTs. Join Radiant Stakings today and become an integral part of the flourishing Rainbowland community while unlocking the potential for both financial growth and enchanting experiences.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-17 at 20.37.39.png" alt="Radiant Residences at Ebisusbay marketplace"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-17 at 20.37.39.png" alt="Radiant Residences at Ebisusbay marketplace"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-17 at 20.38.32.png" alt="Radiant Residences on Ebisusbay marketplace"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-17 at 20.38.32.png" alt="Radiant Residences on Ebisusbay marketplace"><figcaption></figcaption></figure>
 
 ## **About Radiant Residences Apartments and** Luminary Yield staking
 
