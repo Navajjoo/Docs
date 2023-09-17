@@ -11,12 +11,6 @@
   * [☀ Distribution of Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marv/distribution-of-milky-way-marvels-marv.md)
 * [🏨 Radiant Residences by the Rainbowland Metaverse](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
   * [ℹ Instruction on how to mint](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/instruction-on-how-to-mint.md)
-* [🏡 The Metaverse HOUSEs and ASSETs](the-rainbowland-metaverse-information/the-metaverse-houses-and-assets/README.md)
-  * [Distribution of HOUSEs and ASSETs](the-rainbowland-metaverse-information/the-metaverse-houses-and-assets/distribution-of-houses-and-assets.md)
-* [👤 The Rainbowland Metaverse AVATARs](the-rainbowland-metaverse-information/the-rainbowland-metaverse-avatars.md)
-* [🙊 Golden Ape (GOLD)](the-rainbowland-metaverse-information/golden-ape-gold/README.md)
-  * [🙉 Distribution of Golden Ape (GOLD)](the-rainbowland-metaverse-information/golden-ape-gold/distribution-of-golden-ape-gold.md)
-* [🦁 Rainbow Creatures (CRE)](the-rainbowland-metaverse-information/rainbow-creatures-cre.md)
 * [💭 The Vision](the-rainbowland-metaverse/the-vision.md)
 * [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)
 * [🏪 The Rainbowland Metaverse Fashion Emporium](the-rainbowland-metaverse/the-rainbowland-metaverse-fashion-emporium.md)
@@ -25,7 +19,6 @@
 ***
 
 * [🌈 Rainbowland Metaverse: Exploring the Colorful World of Metaverse Coins](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/README.md)
-  * [💎 $PRIDE - Ethereum chain](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdpride-ethereum-chain.md)
   * [👑 $RaVerse - Cronos chain](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/README.md)
     * [ℹ What is $RaVerse coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/what-is-usdraverse-coin.md)
     * [🏭 What is $RaVerse used for?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/what-is-usdraverse-used-for.md)
@@ -33,6 +26,7 @@
     * [ℹ What is $RaVerse coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-polygon-chain/what-is-usdraverse-coin.md)
     * [🏭 What is $RaVerse used for?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-polygon-chain/what-is-usdraverse-used-for.md)
     * [💵 Staking for the $RaVerse holders](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-polygon-chain/staking-for-the-usdraverse-holders.md)
+  * [💎 $PRIDE - Ethereum chain](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdpride-ethereum-chain.md)
 * [🏦 Tokenomics & Distribution](tokenomics-and-distribution/README.md)
   * [🎁 Rewards for The Rainbowland Metaverse NFT Holders](tokenomics-and-distribution/rewards-for-the-rainbowland-metaverse-nft-holders.md)
 
