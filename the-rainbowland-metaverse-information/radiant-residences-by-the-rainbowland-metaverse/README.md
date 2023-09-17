@@ -14,7 +14,7 @@ This architectural marvel represents a collection of 1,200 luxurious apartments,
 With one side of the building overlooking the vast sea and the other three sides embracing the bustling urban landscape, Radiant Residences offers a truly captivating living and working experience.\
 \
 Verified Collection and Brand on Ebisu's Bay Platform: [app.ebisusbay.com/collection/radiant-residences](https://app.ebisusbay.com/collection/radiant-residences)\
-Listing and purchase available in $CRO and $RAVERSE\
+Listing and purchase available in $CRO and $FRTN\
 \
 🌌🏡 Exciting news! To kickstart $FRTN listing rewards for Milky Way Marvels, Radiant Residences, and The Rainbowland LANDs, we aim to collect 5250 $FRTN (3000 for fees and 2250 for staking). Once achieved, all collection holders will start receiving $FRTN rewards for listings! Join us on this journey! 🚀💎\
 \

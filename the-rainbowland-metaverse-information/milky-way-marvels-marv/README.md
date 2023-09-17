@@ -8,5 +8,6 @@ You can use your scanner to analyze the planet's atmosphere, composition, and ot
 
 You can also compete in challenges and events to earn special rewards and unlock new areas of the galaxy.
 
-Milky Way Marvels is verified NFT Collection and Brand on Ebisu's Bay platform!\
+Milky Way Marvels is verified NFT Contract and Brand on Ebisu's Bay platform!\
+Listing and purchase available in $CRO\
 [https://app.ebisusbay.com/collection/milky-way-marvels](https://app.ebisusbay.com/collection/milky-way-marvels)
