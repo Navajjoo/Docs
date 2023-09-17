@@ -4,7 +4,7 @@ description: Distribution of Layer 1 (CDC) to Layer 2
 
 # ✈ Distribution of LANDs
 
-Greetings from the Rainbowland Metaverse development team! We understand the importance of ensuring a smooth and hassle-free experience for our users, especially when it comes to the distribution of LANDs from Layer 1 (Shared Cronos) to Layer 2 (Cronos).
+Greetings from the Rainbowland Metaverse development team! We understand the importance of ensuring a smooth and hassle-free experience for our users, especially when it comes to the distribution of LANDs from Layer 1 (CDC) to Layer 2 (Cronos).
 
 To make this process as simple as possible, we've designed a user-friendly and automated system. Here's how it works:
 
