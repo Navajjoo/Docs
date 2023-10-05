@@ -1,0 +1,29 @@
+---
+description: The Rainbowland Metaverse Roadmap
+---
+
+# 🛣 Roadmap
+
+Radiant Residences, listing and verification at Ebisu's Bay - done \
+Milky Way Marvels, listing and verification at Ebisu's Bay - done\
+The Rainbowland LANDs, listing and verification at Ebisu's Bay - done\
+The Rainbowland Metaverse Brand on Ebisu's Bay - done\
+Listing of $RAVERSE to Ebisu's Bay - in progress - done\
+Radiant Residences, Milky Way Marvels, The Rainbowland LANDs listing reward in $FRTN - done\
+\
+Radiant Residences, Milky Way Marvels, The Rainbowland LANDs staking reward in $RAVERSE - in progress\
+Minting of Milky Way Marvels with $RAVERSE - done\
+\
+$RAVERSE, Cronos chain, liquidity pool on CronaSwap - in progress\
+Minting of The Rainbowland LANDs - in progress\
+Distributing of The Rainbowland LANDs to owners from CDC - in progress\
+Discord tip bot, invites and competitions - in progress\
+\
+The Rainbowland Avatars - in progress\
+The Rainbowland Assets - in progress\
+The Rainbowland Houses - in progress\
+The Rainbowland Transports - in progress\
+\
+Radiant Residences building alpha access - in progress\
+Milky Way Marvels game alpha access - in progress\
+The Rainbowland LANDs development - in progress

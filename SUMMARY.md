@@ -32,4 +32,4 @@
 
 ## 💁 The Rainbowland Metaverse, additional
 
-* [🛣 Roadmap 2023 - 2025](the-rainbowland-metaverse-additional/roadmap-2023-2025.md)
+* [🛣 Roadmap](the-rainbowland-metaverse-additional/roadmap.md)
