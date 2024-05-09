@@ -25,3 +25,5 @@ coverY: 0
 
 </div>
 
+<figure><img src=".gitbook/assets/8dfa99ef-6412-4b74-a11f-6514ab0b5f44.jpeg" alt="" width="188"><figcaption><p><em><mark style="color:blue;"><strong>GALACTONIX</strong></mark></em><br>Meme Coin Dev</p></figcaption></figure>
+
