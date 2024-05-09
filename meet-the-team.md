@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🕵♂ Meet the Team
+# 🕵️‍♂️ Meet the Team
 
 <div>
 
@@ -17,7 +17,7 @@ coverY: 0
 
  
 
-<figure><img src=".gitbook/assets/Character Portraits_cyberpunk, cubism, avatar, boy_image-2_1689275668.png" alt="The Mastermind Developer Behind Rainbowland Metaverse" width="384"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FREIDRICH</strong></mark></em></a><br>The Mastermind Developer Behind Rainbowland Metaverse</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Character Portraits_cyberpunk, cubism, avatar, boy_image-2_1689275668.png" alt="The Mastermind Developer Behind Rainbowland Metaverse" width="384"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FR</strong></mark></em></a><em><mark style="color:green;"><strong>IEDRICH</strong></mark></em><br>The Mastermind Developer Behind Rainbowland Metaverse</p></figcaption></figure>
 
  
 
