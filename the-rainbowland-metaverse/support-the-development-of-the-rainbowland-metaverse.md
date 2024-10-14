@@ -11,10 +11,9 @@ There are several ways you can show your support:
 1. Buy LANDs, Radiant Residences apartments and Milky Way Marvels - Invest in the virtual real estate market by purchasing NFT lands and houses in the Rainbowland Metaverse. Your purchase will not only give you a place to call home in the virtual world, but it will also support the continued development of the Rainbowland Metaverse.\
    [https://app.ebisusbay.com/brands/the-rainbowland-metaverse](https://app.ebisusbay.com/brands/the-rainbowland-metaverse)\
 
-2. Buy $RAVERSE - The official coin of the Rainbowland Metaverse can be used to purchase virtual goods and services. Buying RaVerse is a great way to support the Rainbowland Metaverse and gain access to exclusive experiences and benefits.
+2. Buy $PRIDE - The official coin of the Rainbowland Metaverse can be used to purchase virtual goods and services. Buying RaVerse is a great way to support the Rainbowland Metaverse and gain access to exclusive experiences and benefits.
 
-Tap link below to check it:\
-[https://www.raverse.rainbowland.org/](https://www.raverse.rainbowland.org/)
+Tap link below to check it: [tap to buy](https://coins.lgbtqnetwork.space)
 
 3. Shop in the Metaverse Store - Show your support for the Rainbowland Metaverse by shopping in the virtual store. Your purchases will help fund the development of new features, upgrades, and enhancements.\
    [https://shop.rainbowland.org/](https://shop.rainbowland.org/)
