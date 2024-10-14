@@ -7,10 +7,11 @@
 
 ## 🏙️ The Rainbowland Metaverse Information
 
-* [🏝️ The Rainbowland Metaverse LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/README.md)
-  * [✈️ Distribution of LANDs](the-rainbowland-metaverse/the-rainbowland-metaverse-lands/distribution-of-lands.md)
-* [🌎 Milky Way Marvels (MARVEL)](the-rainbowland-metaverse-information/milky-way-marvels-marvel/README.md)
-  * [☀️ Distribution of Milky Way Marvels (MARV)](the-rainbowland-metaverse-information/milky-way-marvels-marvel/distribution-of-milky-way-marvels-marv.md)
+* [🎭 Art Gallery | Capital City](the-rainbowland-metaverse-information/art-gallery-or-capital-city/README.md)
+  * [Page 1](the-rainbowland-metaverse-information/art-gallery-or-capital-city/page-1.md)
+* [🎭 Art Gallery | BitVille District](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/README.md)
+  * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/milky-way-marvels.md)
+* [🏝️ What is The Rainbowland $LANDs?](the-rainbowland-metaverse-information/what-is-the-rainbowland-usdlands.md)
 * [🏨 Radiant Residences by the Rainbowland Metaverse](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
   * [ℹ️ Instruction on how to mint](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/instruction-on-how-to-mint.md)
 * [💭 The Vision](the-rainbowland-metaverse/the-vision.md)
