@@ -4,7 +4,7 @@ cover: .gitbook/assets/City WEBP small.webp
 coverY: 801
 ---
 
-# 😎 Welcome
+# 🌆 What is The Rainbowland Metaverse?
 
 ## What is The Rainbowland Metaverse? <a href="#what-is-nft-worlds" id="what-is-nft-worlds"></a>
 
