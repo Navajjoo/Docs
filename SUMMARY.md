@@ -7,10 +7,10 @@
 
 ## 🏙️ The Rainbowland Metaverse Information
 
-* [🎭 Art Gallery | Capital City](the-rainbowland-metaverse-information/art-gallery-or-capital-city/README.md)
-  * [Page 1](the-rainbowland-metaverse-information/art-gallery-or-capital-city/page-1.md)
+* [🎭 Art Gallery | Capital City](the-rainbowland-metaverse-information/art-gallery-or-capital-city.md)
 * [🎭 Art Gallery | BitVille District](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/README.md)
   * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/milky-way-marvels.md)
+  * [🐵 Golden Ape PFP](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/golden-ape-pfp.md)
 * [🏝️ What is The Rainbowland $LANDs?](the-rainbowland-metaverse-information/what-is-the-rainbowland-usdlands.md)
 * [🏨 Radiant Residences by the Rainbowland Metaverse](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
   * [ℹ️ Instruction on how to mint](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/instruction-on-how-to-mint.md)
