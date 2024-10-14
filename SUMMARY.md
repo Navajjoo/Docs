@@ -3,6 +3,8 @@
 * [🌆 What is The Rainbowland Metaverse?](README.md)
 * [About The Rainbowland.](about-the-rainbowland..md)
 * [Purpose of Rainbowland and Other Metaverses?](purpose-of-rainbowland-and-other-metaverses.md)
+* [💭 The Vision](the-vision.md)
+* [🧏 Main Idea](main-idea.md)
 * [🕵️‍♂️ Meet the Team](meet-the-team.md)
 
 ## 🏙️ The Rainbowland Metaverse Information
@@ -12,13 +14,10 @@
   * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/milky-way-marvels.md)
   * [🐵 Golden Ape PFP](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/golden-ape-pfp.md)
 * [🏝️ What is The Rainbowland $LANDs?](the-rainbowland-metaverse-information/what-is-the-rainbowland-usdlands.md)
-* [🏨 Radiant Residences | Tower 1](the-rainbowland-metaverse-information/radiant-residences-or-tower-1.md)
+* [🏨 Radiant Residences | Tower 1](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
 * [🏢 Radiant Residences | Tower 2](the-rainbowland-metaverse-information/radiant-residences-or-tower-2.md)
-* [💭 The Vision](the-rainbowland-metaverse/the-vision.md)
-* [🧏 Main Idea](the-rainbowland-metaverse-information/main-idea.md)
-* [🗺️ Differences](the-rainbowland-metaverse-information/differences.md)
 * [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)
-* [🏪 The Rainbowland Metaverse Fashion Emporium](the-rainbowland-metaverse/the-rainbowland-metaverse-fashion-emporium.md)
+* [🏪 The Rainbowland Merchandise](the-rainbowland-metaverse-information/the-rainbowland-merchandise.md)
 * [☕ Support the Development of The Rainbowland Metaverse](the-rainbowland-metaverse/support-the-development-of-the-rainbowland-metaverse.md)
 
 ***
