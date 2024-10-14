@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🌆 What is The Rainbowland Metaverse?](README.md)
-* [About The Rainbowland Metaverse.](about-the-rainbowland-metaverse..md)
+* [About The Rainbowland.](about-the-rainbowland..md)
 * [Purpose of Rainbowland and Other Metaverses?](purpose-of-rainbowland-and-other-metaverses.md)
 * [🕵️‍♂️ Meet the Team](meet-the-team.md)
 
