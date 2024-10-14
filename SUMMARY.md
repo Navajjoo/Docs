@@ -23,17 +23,7 @@
 ***
 
 * [🌈 Rainbowland Metaverse: Exploring the Colorful World of Metaverse Coins](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/README.md)
-  * [👑 $RaVerse - Cronos chain](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/README.md)
-    * [ℹ️ What is $RaVerse coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/what-is-usdraverse-coin.md)
-    * [🏭 What is $RaVerse used for?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-cronos-chain/what-is-usdraverse-used-for.md)
-  * [💙 $RaVerse - Polygon chain](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-polygon-chain/README.md)
-    * [ℹ️ What is $RaVerse coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-polygon-chain/what-is-usdraverse-coin.md)
-    * [🏭 What is $RaVerse used for?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-polygon-chain/what-is-usdraverse-used-for.md)
-    * [💵 Staking for the $RaVerse holders](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdraverse-polygon-chain/staking-for-the-usdraverse-holders.md)
-  * [💎 $PRIDE - Ethereum chain](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdpride-ethereum-chain.md)
+  * [🌈 $PRIDE Coin](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/usdpride-coin.md)
 * [🏦 Tokenomics & Distribution](tokenomics-and-distribution/README.md)
   * [🎁 Rewards for The Rainbowland Metaverse NFT Holders](tokenomics-and-distribution/rewards-for-the-rainbowland-metaverse-nft-holders.md)
-
-## 💁 The Rainbowland Metaverse, additional
-
-* [🛣️ Roadmap](the-rainbowland-metaverse-additional/roadmap-2023-2025.md)
+* [🛣️ Roadmap](roadmap.md)

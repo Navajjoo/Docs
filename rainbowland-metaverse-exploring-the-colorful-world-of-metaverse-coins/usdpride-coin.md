@@ -1,4 +1,4 @@
-# 💎 $PRIDE - Ethereum chain
+# 🌈 $PRIDE Coin
 
 $PRIDE is a unique coin on the Ethereum blockchain, specifically created for the Rainbowland Metaverse. It represents the celebration of diversity, inclusivity, and equality within our vibrant online world.
 
