@@ -14,6 +14,7 @@
   * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/milky-way-marvels.md)
   * [🐵 Golden Ape PFP](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/golden-ape-pfp.md)
 * [🏝️ What is The Rainbowland $LANDs?](the-rainbowland-metaverse-information/what-is-the-rainbowland-usdlands.md)
+* [Explanation of Land Characteristics in the Metaverse:](the-rainbowland-metaverse-information/explanation-of-land-characteristics-in-the-metaverse.md)
 * [🏨 Radiant Residences | Tower 1](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
 * [🏢 Radiant Residences | Tower 2](the-rainbowland-metaverse-information/radiant-residences-or-tower-2.md)
 * [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)
