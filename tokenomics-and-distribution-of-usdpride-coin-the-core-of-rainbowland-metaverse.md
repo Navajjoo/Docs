@@ -1,10 +1,12 @@
 ---
 description: 'Introducing $PRIDE Coin: The Heart of the Rainbowland Metaverse'
-cover: ../.gitbook/assets/Team page 5.png
+cover: .gitbook/assets/Team page 5.png
 coverY: 0
 ---
 
 # 🏦 Tokenomics & Distribution of $PRIDE Coin: The Core of Rainbowland Metaverse
+
+<figure><img src=".gitbook/assets/download.png" alt=""><figcaption><p>Tokenomics &#x26; Distribution of $PRIDE Coin: The Core of Rainbowland Metaverse</p></figcaption></figure>
 
 ## ⚜️ Overview
 
