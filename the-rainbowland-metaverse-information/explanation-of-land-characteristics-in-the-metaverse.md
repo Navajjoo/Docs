@@ -2,7 +2,7 @@
 description: 🌈 Discover the Lands of the Rainbowland Metaverse! 🌍
 ---
 
-# Explanation of Land Characteristics in the Metaverse:
+# 🛠️ Explanation of Land Characteristics in the Metaverse:
 
 In the vibrant world of Rainbowland Metaverse, every piece of LAND is unique and full of potential. Explore, collect resources, upgrade your properties, and grow your in-game economy. Let’s take a closer look at the characteristics of these digital lands:
 
