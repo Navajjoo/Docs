@@ -24,12 +24,12 @@ Feeling social? Hang out with friends or even make new ones. With the option to 
 The Rainbowland Metaverse is your playground, and $RAVERSE, $PRIDE & $DUMMY is your currency. With this coins, you can do anything you want in this virtual world. So come join us, and let your imagination run wild!\
 \
 LAND on Solana: [powered by Magic Eden](https://magiceden.io/marketplace/gamefi_metaverse)\
-LAND on Cronos: [powered by Ebisus Bay and Coinmarketcap](https://coinmarketcap.com/nft/collections/cronos/0x3ff260ce7a8dfcadaf5e880137ee1750ceae9889/The%20Rainbowland%20LANDs/)\
+LAND on Cronos: [powered by Ebisus Bay](https://app.ebisusbay.com/collection/cronos/rainbowland-lands)\
 LAND on CDC: [powered by Crypto.org Chain](https://crypto.com/nft/collection/3faa85afc4d85ccd2f6109828bb3e49a)\
 LAND on Bitcoin: [powered by Magic Eden](https://magiceden.io/ordinals/marketplace/bitville)\
 \
-Into the Metaverse on Solana: powered by Magic Eden\
-Into the Metaverse on Crypto.org Chain: powered by CDC\
+Into the Metaverse on Solana: [powered by Magic Eden](https://truffle.wtf/project/into-the-metaverse)\
+Into the Metaverse on Crypto.org Chain: [powered by CDC](https://crypto.com/nft/collection/f956c00b0ced8d061771050bb407476c)\
 \
 Milky Way Marvels on Cronos: [powered by Ebisus Bay](https://app.ebisusbay.com/collection/cronos/milky-way-marvels)\
 Milky Way Marvels on Bitcoin: [powered by Crypto.org Chain](https://magiceden.io/ordinals/marketplace/marvel)\
@@ -41,10 +41,11 @@ Golden Ape on Bitcoin: [powered by Magic Eden](https://magiceden.io/ordinals/mar
 Radiant Resedences - Tower 1 on Cronos: [powered by Ebisus Bay](https://app.ebisusbay.com/collection/cronos/radiant-residences)\
 Radiant Residences - Tower 2 on Cronos: [powered by Ebisus Bay](https://app.ebisusbay.com/collection/cronos/radiant-residences-tower-2)\
 \
+**CoinMarketCap:** [$LAND](https://coinmarketcap.com/nft/collections/cronos/0x3ff260ce7a8dfcadaf5e880137ee1750ceae9889/The%20Rainbowland%20LANDs/)\
 **CoinMarketCap:** [**$Milky Way Marvels**](https://coinmarketcap.com/nft/collections/cronos/0xf37a3686800a9fb19625c05e1a7acf2d232e8aa4/Milky%20Way%20Marvels/)\
 **CoinMarketCap:** [**$Radiant Residences**](https://coinmarketcap.com/nft/collections/cronos/0x3720cde69e4e997bbdeaec7b4e7b5f8c3c406869/Radiant%20Residences/)\
 **CoinMarketCap:** [**$Radiant Residences - Tower 2**](https://coinmarketcap.com/nft/collections/cronos/0xb4b898ee60185facc247aadb8d061661590f167f/Radiant%20Residences%20-%20Tower%202/)\
-**Marketplace:** [**https://app.ebisusbay.com/brands/the-rainbowland-metaverse**](https://app.ebisusbay.com/brands/the-rainbowland-metaverse)\
+**The Rainbowland BRAND:** [**https://app.ebisusbay.com/brands/the-rainbowland-metaverse**](https://app.ebisusbay.com/brands/the-rainbowland-metaverse)\
 \
 **Main Metaverse (Cronos Chain):** [**The Rainbowland Metaverse, mainland**](https://app.ebisusbay.com/collection/cronos/rainbowland-lands)\
 **BitVille District** (New District on Bitcoin chain): [BitVille District](https://magiceden.io/ordinals/marketplace/land)\
