@@ -24,9 +24,9 @@
 
 ***
 
-* [🌈 Rainbowland Metaverse: Exploring the Colorful World of Metaverse Coins](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/README.md)
-  * [🌈 What is $PRIDE Coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/what-is-usdpride-coin.md)
-  * [🌯 How to wrap/unwrap $PRIDE Coin?](rainbowland-metaverse-exploring-the-colorful-world-of-metaverse-coins/how-to-wrap-unwrap-usdpride-coin.md)
+* [💎 $RaVerse - The Heart of Rainbowland Metaverse Economy](usdraverse-the-heart-of-rainbowland-metaverse-economy/README.md)
+  * [🌈 What is $PRIDE Coin?](usdraverse-the-heart-of-rainbowland-metaverse-economy/what-is-usdpride-coin.md)
+  * [🌯 How to wrap/unwrap $PRIDE Coin?](usdraverse-the-heart-of-rainbowland-metaverse-economy/how-to-wrap-unwrap-usdpride-coin.md)
 * [✨ Star Dust: The Soft Currency](star-dust-the-soft-currency.md)
 * [🌈 $PRIDE Coin: The Premium Hard Currency of Rainbowland Metaverse](usdpride-coin-the-premium-hard-currency-of-rainbowland-metaverse.md)
 * [🏦 Tokenomics & Distribution of $PRIDE Coin: The Core of Rainbowland Metaverse](tokenomics-and-distribution-of-usdpride-coin-the-core-of-rainbowland-metaverse.md)
