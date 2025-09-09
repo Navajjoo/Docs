@@ -10,10 +10,10 @@
 ## 🏙️ The Rainbowland Metaverse Information
 
 * [Intelligent NFT (iNFT) in The Rainbowland Metaverse](the-rainbowland-metaverse-information/intelligent-nft-inft-in-the-rainbowland-metaverse.md)
-* [🎭 Art Gallery | Capital City](the-rainbowland-metaverse-information/art-gallery-or-capital-city.md)
-* [🎭 BitVille District](the-rainbowland-metaverse-information/bitville-district/README.md)
-  * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/bitville-district/milky-way-marvels.md)
-  * [🐵 Golden Ape PFP](the-rainbowland-metaverse-information/bitville-district/golden-ape-pfp.md)
+* [🎭 Art Gallery | Capital City](the-rainbowland-metaverse-information/art-gallery-or-capital-city/README.md)
+  * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/art-gallery-or-capital-city/milky-way-marvels.md)
+  * [🐵 Golden Ape PFP](the-rainbowland-metaverse-information/art-gallery-or-capital-city/golden-ape-pfp.md)
+* [🎭 BitVille District](the-rainbowland-metaverse-information/bitville-district.md)
 * [🏝️ What is The Rainbowland $LANDs?](the-rainbowland-metaverse-information/what-is-the-rainbowland-usdlands.md)
 * [🛠️ Explanation of Land Characteristics in the Metaverse:](the-rainbowland-metaverse-information/explanation-of-land-characteristics-in-the-metaverse.md)
 * [🏨 Radiant Residences | Tower 1](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
