@@ -4,7 +4,10 @@ description: Eternals by NICS AI
 
 # Intelligent NFT (iNFT) in The Rainbowland Metaverse
 
-The future of digital assets goes beyond simple ownership. **Intelligent NFTs (iNFTs)** bring a new dimension to the metaverse, combining blockchain-secured uniqueness with the power of artificial intelligence. Unlike traditional NFTs, which serve primarily as collectibles or static assets, iNFTs are **living, evolving, and interactive digital entities** that can learn, communicate, and grow with their owners.
+The future of digital assets goes beyond simple ownership. **Intelligent NFTs (iNFTs)** bring a new dimension to the metaverse, combining blockchain-secured uniqueness with the power of artificial intelligence. Unlike traditional NFTs, which serve primarily as collectibles or static assets, iNFTs are **living, evolving, and interactive digital entities** that can learn, communicate, and grow with their owners.\
+
+
+Check on OpenSea: [https://opensea.io/collection/nics-ai-eternals](https://opensea.io/collection/nics-ai-eternals)
 
 #### What is an iNFT?
 
