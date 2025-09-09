@@ -19,7 +19,7 @@ description: Version 1.1.0
 * Total: 409600 LANDs
 * 1 LAND = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
 
-## ⚜️ Districts**:**
+## ⚜️ District&#x73;**:**
 
 * **The City:** experience the pulse of the metaverse at The City, the capital of Rainbowland Metaverse. This bustling metropolis is the center of commerce, culture, and innovation in the virtual world. Explore its towering skyscrapers, bustling streets, and cutting-edge technology. From world-class shopping to top-notch entertainment, The City has everything you could possibly want. Meet new friends, network with like-minded individuals, and discover the endless opportunities that await you in this dynamic virtual world. Whether you're looking for an urban escape or a hub of innovation, The City is the ultimate destination in Rainbowland Metaverse. Come and see what all the buzz is about!
 * **Rainbowhill** - get ready for a vibrant and colorful adventure in Rainbowhill District of Rainbowland Metaverse. This district is a feast for the senses, with its kaleidoscope of hues and playful atmosphere. From rainbow-hued parks to lively street performers, there's never a dull moment in Rainbowhill. Take a leisurely stroll down its streets, grab a bite to eat at one of its many cafes, or dance the night away in one of its many dance clubs. Rainbowhill District is the perfect place to let loose and have fun in Rainbowland Metaverse. Whether you're looking for a whimsical escape or a place to socialize, Rainbowhill is the destination for you.
@@ -46,6 +46,6 @@ description: Version 1.1.0
 
     So, if you are looking for a way to honor and remember your loved ones, come to The Digital Graveyard. Here, you can ensure that their memory will live on forever in the digital world. Join us in this exciting new chapter of the Rainbowland Metaverse and experience the power of perpetuating the digital identity of a person after their death.
 
-## ⚜️ LAND Size**:**
+## ⚜️ LAND Siz&#x65;**:**
 
 1 Land = 16 meters by 16 meters (256 sq.m.) = 2755 square feet = 0.063 Acre
