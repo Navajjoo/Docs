@@ -1,6 +1,6 @@
 ---
 description: The First Living Skyscraper of Rainbowland
-cover: ../.gitbook/assets/IMG_2364.JPG
+cover: ../../.gitbook/assets/IMG_2364.JPG
 coverY: 0
 ---
 
@@ -118,4 +118,4 @@ Join Radiant Stakings today and become an integral part of the flourishing Rainb
 \
 Verified Collection and Brand on Ebisu's Bay Platform: [tap to bu](https://app.ebisusbay.com/collection/cronos/radiant-residences)[y](https://app.ebisusbay.com/collection/cronos/radiant-residences)
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-09-17 at 20.38.32.png" alt="Radiant Residences on Ebisusbay marketplace"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-09-17 at 20.38.32.png" alt="Radiant Residences on Ebisusbay marketplace"><figcaption></figcaption></figure>
