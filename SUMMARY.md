@@ -16,7 +16,7 @@
 * [🎭 BitVille District](the-rainbowland-metaverse-information/bitville-district/README.md)
 * [🏝️ What is The Rainbowland $LANDs?](the-rainbowland-metaverse-information/what-is-the-rainbowland-usdlands.md)
 * [🛠️ Explanation of Land Characteristics in the Metaverse:](the-rainbowland-metaverse-information/explanation-of-land-characteristics-in-the-metaverse.md)
-* [🏨 Radiant Residences | Tower 1](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
+* [🏨 🏙️ Radiant Residences Tower I](the-rainbowland-metaverse-information/radiant-residences-tower-i.md)
 * [🏢 Radiant Residences | Tower 2](the-rainbowland-metaverse-information/radiant-residences-or-tower-2.md)
 * [🌆 The Rainbowland Metaverse Map](the-rainbowland-metaverse/the-rainbowland-metaverse-map.md)
 * [🏪 The Rainbowland Merchandise](the-rainbowland-metaverse-information/the-rainbowland-merchandise.md)
