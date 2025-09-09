@@ -9,6 +9,7 @@
 
 ## 🏙️ The Rainbowland Metaverse Information
 
+* [Intelligent NFT (iNFT) in The Rainbowland Metaverse](the-rainbowland-metaverse-information/intelligent-nft-inft-in-the-rainbowland-metaverse.md)
 * [🎭 Art Gallery | Capital City](the-rainbowland-metaverse-information/art-gallery-or-capital-city.md)
 * [🎭 Art Gallery | BitVille District](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/README.md)
   * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/art-gallery-or-bitville-district/milky-way-marvels.md)
