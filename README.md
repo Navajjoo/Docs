@@ -23,10 +23,9 @@ Feeling social? Hang out with friends or even make new ones. With the option to 
 
 The Rainbowland Metaverse is your playground, and $RAVERSE, $PRIDE & $DUMMY is your currency. With this coins, you can do anything you want in this virtual world. So come join us, and let your imagination run wild!\
 \
-LAND on Solana: [powered by Magic Eden](https://magiceden.io/marketplace/gamefi_metaverse)\
+The land in our metaverse is unique and indivisible, even though it is available across different platforms such as Ebisu’s Bay and the Crypto.com App NFT marketplace. Each plot exists only once - there are no duplicate coordinates. All land ownership data is being unified into a single source, which will soon be published on our interactive map.\
 LAND on Cronos: [powered by Ebisus Bay](https://app.ebisusbay.com/collection/cronos/rainbowland-lands)\
 LAND on CDC: [powered by Crypto.org Chain](https://crypto.com/nft/collection/3faa85afc4d85ccd2f6109828bb3e49a)\
-LAND on Bitcoin: [powered by Magic Eden](https://magiceden.io/ordinals/marketplace/bitville)\
 \
 Into the Metaverse on Solana: [powered by Magic Eden](https://truffle.wtf/project/into-the-metaverse)\
 Into the Metaverse on Crypto.org Chain: [powered by CDC](https://crypto.com/nft/collection/f956c00b0ced8d061771050bb407476c)\
