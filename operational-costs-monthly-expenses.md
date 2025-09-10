@@ -60,13 +60,13 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 🖥 Hardware (One-Time, amortized)
 
-| Category             | Service / Description                                                   | Cost (USD)  | Amortized Monthly (USD) | Support                                                      |
-| -------------------- | ----------------------------------------------------------------------- | ----------- | ----------------------- | ------------------------------------------------------------ |
-| Developer Hardware   | Apple MacBook Pro (M4 Max, 16-core CPU/40-core GPU, 128GB RAM, 1TB SSD) | €4000       | \~$180                  | [Support](https://buy.stripe.com/00waEW8bA1j6eH328RaVa0o)    |
-| VR Testing           | Meta Quest 3 Pro + accessories                                          | €1,200      | \~$50                   | [Support](https://checkout.stripe.com/pay/quest)             |
-| Workstations         | GPU Desktop (RTX 4090, 128GB RAM)                                       | €4,000      | \~$160                  | [Support](https://checkout.stripe.com/pay/workstation)       |
-| Servers (local dev)  | Mini-cluster for testing                                                | €3,000      | \~$120                  | [Support](https://checkout.stripe.com/pay/server)            |
-| **Total (Hardware)** |                                                                         | €**12,700** | **$510**                | [Support HW Total](https://checkout.stripe.com/pay/hw-total) |
+| Category             | Service / Description                                                   | Cost (USD)       | Amortized Monthly (USD) | Support                                                            |
+| -------------------- | ----------------------------------------------------------------------- | ---------------- | ----------------------- | ------------------------------------------------------------------ |
+| Developer Hardware   | Apple MacBook Pro (M4 Max, 16-core CPU/40-core GPU, 128GB RAM, 1TB SSD) | €4000            | \~€180                  | [Support](https://buy.stripe.com/00waEW8bA1j6eH328RaVa0o)          |
+| VR Testing           | Meta Quest 3 Pro + accessories                                          | €1,200           | \~€50                   | [Support](https://buy.stripe.com/5kQdR83Vk7HueH300JaVa0p)          |
+| Mac Studio M3 Ultra  | 32-core CPU, 80-core GPU, 512 GB RAM, 16 TB SSD                         | €4,529           | \~€160                  | [Support](https://buy.stripe.com/4gMcN42RgbXKbuR9BjaVa0q)          |
+| Servers (local dev)  | Mini-cluster for testing                                                | €4,000           | \~€120                  | [Support](https://buy.stripe.com/00w14mezYf9WfL714NaVa0r)          |
+| **Total (Hardware)** |                                                                         | €1&#x33;**,729** | €**510**                | [Support HW Total](https://buy.stripe.com/cNi14m4Zo9PCfL77tbaVa0s) |
 
 ***
 
