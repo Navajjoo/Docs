@@ -11,16 +11,16 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 💻 Infrastructure (Microsoft Azure)
 
-| Category                   | Service / Description                                                                     | Monthly Cost (USD) | Support                                                            |
-| -------------------------- | ----------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------ |
-| **Main Compute**           | Azure NVadsA10 v5 VM (2× NVIDIA A10 GPU, 24 vCPU, 220 GB RAM) – Unity Metaverse rendering | $2,800             | [Support](https://buy.stripe.com/3cIeVcgI66DqaqNeVDaVa03)          |
-| **Staging Compute**        | Azure D32as v5 VM (32 vCPU, 128 GB RAM, CPU-only, for dev/staging)                        | $1,200             | [Support](https://buy.stripe.com/eVqfZg77w0f26ax14NaVa04)          |
-| **Database**               | Azure Cosmos DB (global scale, 1TB storage + requests)                                    | $400               | [Support](https://buy.stripe.com/eVqaEWajI2naeH39BjaVa05)          |
-| **Storage**                | Azure Blob Storage + CDN (assets, textures, Unity bundles)                                | $250               | [Support](https://buy.stripe.com/fZu4gy2Rg3regPbcNvaVa06)          |
-| **Networking**             | Azure Bandwidth + Load Balancer                                                           | $200               | [Support](https://buy.stripe.com/28EeVc3Vk2na56tcNvaVa07)          |
-| **Monitoring & Logs**      | Azure Monitor & Application Insights                                                      | $100               | [Support](https://checkout.stripe.com/pay/monitoring)              |
-| **Domain & Hosting**       | nics.space + cPanel hosting                                                               | $30                | [Support](https://checkout.stripe.com/pay/domain)                  |
-| **Total (Infrastructure)** |                                                                                           | **$4,980**         | [Support Infra Total](https://checkout.stripe.com/pay/infra-total) |
+| Category                   | Service / Description                                                                     | Monthly Cost (USD) | Support                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------- |
+| **Main Compute**           | Azure NVadsA10 v5 VM (2× NVIDIA A10 GPU, 24 vCPU, 220 GB RAM) – Unity Metaverse rendering | $2,800             | [Support](https://buy.stripe.com/3cIeVcgI66DqaqNeVDaVa03)             |
+| **Staging Compute**        | Azure D32as v5 VM (32 vCPU, 128 GB RAM, CPU-only, for dev/staging)                        | $1,200             | [Support](https://buy.stripe.com/eVqfZg77w0f26ax14NaVa04)             |
+| **Database**               | Azure Cosmos DB (global scale, 1TB storage + requests)                                    | $400               | [Support](https://buy.stripe.com/eVqaEWajI2naeH39BjaVa05)             |
+| **Storage**                | Azure Blob Storage + CDN (assets, textures, Unity bundles)                                | $250               | [Support](https://buy.stripe.com/fZu4gy2Rg3regPbcNvaVa06)             |
+| **Networking**             | Azure Bandwidth + Load Balancer                                                           | $200               | [Support](https://buy.stripe.com/28EeVc3Vk2na56tcNvaVa07)             |
+| **Monitoring & Logs**      | Azure Monitor & Application Insights                                                      | $100               | [Support](https://buy.stripe.com/bJe14m77w5zm8iF8xfaVa08)             |
+| **Domain & Hosting**       | nics.space + cPanel hosting                                                               | $30                | [Support](https://buy.stripe.com/5kQ3cudvU7Hu7eBbJraVa09)             |
+| **Total (Infrastructure)** |                                                                                           | **$4,980**         | [Support Infra Total](https://buy.stripe.com/6oU3cu3VkaTG6ax5l3aVa0a) |
 
 ***
 
