@@ -50,11 +50,11 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 📚 Education & Research
 
-| Category                         | Service / Description         | Monthly Cost (USD) | Support                                                        |
-| -------------------------------- | ----------------------------- | ------------------ | -------------------------------------------------------------- |
-| Online Courses                   | Coursera Team Subscription    | $60                | [Support](https://checkout.stripe.com/pay/coursera)            |
-| Research                         | Academic Journals & Data APIs | $40                | [Support](https://checkout.stripe.com/pay/research)            |
-| **Total (Education & Research)** |                               | **$100**           | [Support Edu Total](https://checkout.stripe.com/pay/edu-total) |
+| Category                         | Service / Description         | Monthly Cost (USD) | Support                                                             |
+| -------------------------------- | ----------------------------- | ------------------ | ------------------------------------------------------------------- |
+| Online Courses                   | Coursera Team Subscription    | $60                | [Support](https://buy.stripe.com/9B6bJ03Vk6Dq42p00JaVa0l)           |
+| Research                         | Academic Journals & Data APIs | $40                | [Support](https://buy.stripe.com/5kQ3cu9fE7HudCZ5l3aVa0m)           |
+| **Total (Education & Research)** |                               | **$100**           | [Support Edu Total](https://buy.stripe.com/28E28q4Zo6Dq9mJ6p7aVa0n) |
 
 ***
 
