@@ -26,12 +26,12 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 🌐 Web3 & Authentication
 
-| Category                | Service / Description                      | Monthly Cost (USD) | Support                                                          |
-| ----------------------- | ------------------------------------------ | ------------------ | ---------------------------------------------------------------- |
-| Web3 Infra              | Alchemy / Infura RPC (ETH & Polygon nodes) | $200               | [Support](https://checkout.stripe.com/pay/web3-infra)            |
-| Wallet Integration      | Web3Modal / RainbowKit (enterprise tier)   | $100               | [Support](https://checkout.stripe.com/pay/wallet)                |
-| Auth / Social Login     | Microsoft Entra ID B2C / Auth0 (10k MAU)   | $150               | [Support](https://checkout.stripe.com/pay/auth)                  |
-| **Total (Web3 & Auth)** |                                            | **$450**           | [Support Web3 Total](https://checkout.stripe.com/pay/web3-total) |
+| Category                | Service / Description                      | Monthly Cost (USD) | Support                                                              |
+| ----------------------- | ------------------------------------------ | ------------------ | -------------------------------------------------------------------- |
+| Web3 Infra              | Alchemy / Infura RPC (ETH & Polygon nodes) | $200               | [Support](https://buy.stripe.com/6oUcN4crQaTGcyV28RaVa0b)            |
+| Wallet Integration      | Web3Modal / RainbowKit (enterprise tier)   | $100               | [Support](https://buy.stripe.com/aFa7sK77wf9WgPb14NaVa0c)            |
+| Auth / Social Login     | Microsoft Entra ID B2C / Auth0 (10k MAU)   | $150               | [Support](https://buy.stripe.com/bJe7sK0J83re8iF5l3aVa0d)            |
+| **Total (Web3 & Auth)** |                                            | **$450**           | [Support Web3 Total](https://buy.stripe.com/dRm5kC9fE7Hu0Qd7tbaVa0e) |
 
 ***
 
