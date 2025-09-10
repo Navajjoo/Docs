@@ -60,13 +60,7 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 🖥 Hardware (One-Time, amortized)
 
-| Category             | Service / Description                                                   | Cost (USD)       | Amortized Monthly (USD) | Support                                                            |
-| -------------------- | ----------------------------------------------------------------------- | ---------------- | ----------------------- | ------------------------------------------------------------------ |
-| Developer Hardware   | Apple MacBook Pro (M4 Max, 16-core CPU/40-core GPU, 128GB RAM, 1TB SSD) | €4000            | \~€180                  | [Support](https://buy.stripe.com/00waEW8bA1j6eH328RaVa0o)          |
-| VR Testing           | Meta Quest 3 Pro + accessories                                          | €1,200           | \~€50                   | [Support](https://buy.stripe.com/5kQdR83Vk7HueH300JaVa0p)          |
-| Mac Studio M3 Ultra  | 32-core CPU, 80-core GPU, 512 GB RAM, 16 TB SSD                         | €4,529           | \~€160                  | [Support](https://buy.stripe.com/4gMcN42RgbXKbuR9BjaVa0q)          |
-| Servers (local dev)  | Mini-cluster for testing                                                | €4,000           | \~€120                  | [Support](https://buy.stripe.com/00w14mezYf9WfL714NaVa0r)          |
-| **Total (Hardware)** |                                                                         | €1&#x33;**,729** | €**510**                | [Support HW Total](https://buy.stripe.com/cNi14m4Zo9PCfL77tbaVa0s) |
+<table><thead><tr><th>Category</th><th>Service / Description</th><th>Cost (USD)</th><th width="136">Amortized Monthly (USD)</th><th>Support</th></tr></thead><tbody><tr><td>Developer Hardware</td><td>Apple MacBook Pro (M4 Max, 16-core CPU/40-core GPU, 128GB RAM, 1TB SSD)</td><td>€4000</td><td>~€180</td><td><a href="https://buy.stripe.com/00waEW8bA1j6eH328RaVa0o">Support</a></td></tr><tr><td>VR Testing</td><td>Meta Quest 3 Pro + accessories</td><td>€1,200</td><td>~€50</td><td><a href="https://buy.stripe.com/5kQdR83Vk7HueH300JaVa0p">Support</a></td></tr><tr><td>Mac Studio M3 Ultra</td><td>32-core CPU, 80-core GPU, 512 GB RAM, 16 TB SSD</td><td>€4,529</td><td>~€160</td><td><a href="https://buy.stripe.com/4gMcN42RgbXKbuR9BjaVa0q">Support</a></td></tr><tr><td>Servers (local dev)</td><td>Mini-cluster for testing</td><td>€4,000</td><td>~€120</td><td><a href="https://buy.stripe.com/00w14mezYf9WfL714NaVa0r">Support</a></td></tr><tr><td><strong>Total (Hardware)</strong></td><td></td><td>€13<strong>,729</strong></td><td>€<strong>510</strong></td><td><a href="https://buy.stripe.com/cNi14m4Zo9PCfL77tbaVa0s">Support HW Total</a></td></tr></tbody></table>
 
 ***
 
@@ -90,9 +84,9 @@ Supporters of our project can help us cover these expenses either with **monthly
 Every contribution directly supports the growth of our metaverse ecosystem.\
 Choose your preferred way to contribute:
 
-* 💳 **Monthly subscription via Stripe** → [Subscribe on Stripe](https://checkout.stripe.com/your-link)
-* 🅿️ **One-time support via PayPal** → [PayPal.me/YourCompany](https://paypal.me/YourCompany)
-* 🪙 **One-time crypto contribution via Coinbase Commerce** → [Support with Crypto](https://commerce.coinbase.com/checkout/your-link)
+* 💳 **Monthly subscription via Stripe** → [Subscribe on Stripe](https://buy.stripe.com/aFa00i9fE3reaqN14NaVa0u)
+* 🅿️ **One-time support via PayPal** → [PayPal.me/StellarExplorer](https://paypal.me/StellarExplorer)
+* 🪙 **One-time crypto contribution via Coinbase Commerce** → [Support with Crypto](https://commerce.coinbase.com/checkout/5ac579ab-c8fa-4fc0-8483-23344e53e19e)
 
 Thank you for being part of our journey.\
 Together we are building the future of the decentralized metaverse. 🌍✨
