@@ -76,12 +76,12 @@ Supporters of our project can help us cover these expenses either with **monthly
 | --------------------------------- | ------------------ |
 | Infrastructure                    | $4,980             |
 | Web3 & Auth                       | $450               |
-| AI & Tools                        | $240               |
+| AI & Tools                        | €240               |
 | Education                         | $100               |
-| Hardware (amortized)              | $510               |
-| **Total Monthly Operating Costs** | **$6,280**         |
+| Hardware                          | €13729             |
+| **Total Monthly Operating Costs** | **$21,886**        |
 
-[Support Full Monthly Cost ($6,280)](https://checkout.stripe.com/pay/full-total)
+[Support Hardware + Full Monthly Operating Cost ($21,866)](https://buy.stripe.com/00waEW3Vk7Hu56t9BjaVa0t)
 
 ***
 
