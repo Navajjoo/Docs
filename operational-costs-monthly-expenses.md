@@ -13,7 +13,7 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 | Category                   | Service / Description                                                                     | Monthly Cost (USD) | Support                                                            |
 | -------------------------- | ----------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------ |
-| **Main Compute**           | Azure NVadsA10 v5 VM (2× NVIDIA A10 GPU, 24 vCPU, 220 GB RAM) – Unity Metaverse rendering | $2,800             | [Support](https://checkout.stripe.com/pay/main-compute)            |
+| **Main Compute**           | Azure NVadsA10 v5 VM (2× NVIDIA A10 GPU, 24 vCPU, 220 GB RAM) – Unity Metaverse rendering | $2,800             | [Support](https://buy.stripe.com/3cIeVcgI66DqaqNeVDaVa03)          |
 | **Staging Compute**        | Azure D32as v5 VM (32 vCPU, 128 GB RAM, CPU-only, for dev/staging)                        | $1,200             | [Support](https://checkout.stripe.com/pay/staging-compute)         |
 | **Database**               | Azure Cosmos DB (global scale, 1TB storage + requests)                                    | $400               | [Support](https://checkout.stripe.com/pay/database)                |
 | **Storage**                | Azure Blob Storage + CDN (assets, textures, Unity bundles)                                | $250               | [Support](https://checkout.stripe.com/pay/storage)                 |
