@@ -1,4 +1,4 @@
-# Azure VM Configurations / Metaverse Infrastructure
+# 🏭 Azure VM Configurations / Metaverse Infrastructure
 
 ### ⚡ Azure VM Configurations for the Metaverse
 
