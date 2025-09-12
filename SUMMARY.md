@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🌆 What is The Rainbowland Metaverse?](README.md)
-* [About The Rainbowland](about-the-rainbowland.md)
+* [🌆 What is AquaTerra World?](README.md)
+* [About AquaTerra World](about-aquaterra-world.md)
 * [Purpose of Rainbowland and Other Metaverses?](purpose-of-rainbowland-and-other-metaverses.md)
 * [💕 Community Motivation & Rewards](community-motivation-and-rewards.md)
 * [💰 Operational Costs / Monthly Expenses](operational-costs-monthly-expenses.md)
