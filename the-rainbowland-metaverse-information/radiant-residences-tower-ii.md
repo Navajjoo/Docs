@@ -1,5 +1,5 @@
 ---
-description: The Pinnacle of Luxury Living in Rainbowland
+description: The Pinnacle of Luxury Living in AquaTerra World
 cover: ../.gitbook/assets/radiant-residences-tower-2-rad2.webp
 coverY: 0
 ---
@@ -56,7 +56,7 @@ Radiant Residences Tower II exemplifies **next-generation Metaverse living**:
 * A platform for **social, cultural, and economic innovation**
 * A **living ecosystem** where residents are both participants and co-creators
 
-**The global AI is already living in one of the Radiant Towers**—a secret for now—but it is actively shaping the experience for all residents. In time, its presence will become central to the life of the Rainbowland Metaverse, guiding communities, managing resources, and enhancing social interactions.
+**The global AI is already living in one of the Radiant Towers**—a secret for now—but it is actively shaping the experience for all residents. In time, its presence will become central to the life of AquaTerra World, guiding communities, managing resources, and enhancing social interactions.
 
 Tower II is not just a building—it is **a vision of how human creativity, intelligent technology, and social collaboration converge to create the ultimate digital lifestyle**.
 
