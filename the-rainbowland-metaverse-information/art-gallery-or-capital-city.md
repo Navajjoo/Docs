@@ -1,10 +1,10 @@
 ---
-description: The Art Gallery in The City District of The Rainbowland Metaverse
+description: The Art Gallery in The City District of AquaTerra World
 ---
 
 # 🎭 Art Gallery | Capital City
 
-**The Art Gallery in The City District of The Rainbowland Metaverse** is a beacon of innovation, digital creativity, and AI-enhanced experiences, offering a unique blend of art, culture, and community. Located in the bustling heart of The City, this gallery stands as a major cultural hub, showcasing world-class digital art collections, including the iconic **Golden Apes** and the breathtaking **Milky Way Marvels**, alongside a growing selection of user-generated and external project iNFT exhibitions.
+**The Art Gallery in The City District of** AquaTerra World is a beacon of innovation, digital creativity, and AI-enhanced experiences, offering a unique blend of art, culture, and community. Located in the bustling heart of The City, this gallery stands as a major cultural hub, showcasing world-class digital art collections, including the iconic **Golden Apes** and the breathtaking **Milky Way Marvels**, alongside a growing selection of user-generated and external project iNFT exhibitions.
 
 **A Hub for Events, Conferences, and Cultural Gatherings:**\
 The Art Gallery is far more than a traditional exhibition space. It serves as a lively venue where art meets cutting-edge technology, hosting immersive exhibitions that transform how visitors experience digital art. Advanced AI systems from the **NICS AI Ecosystem** curate personalized tours, dynamically adapt exhibits, and enhance interactivity for each visitor. The gallery also hosts online and live virtual conferences with leading voices in digital art, blockchain, and AI innovation, creating a bridge between technology and culture in the metaverse.
@@ -27,4 +27,4 @@ The gallery leverages AR, VR, and mixed-reality technologies to create fully imm
 **The Future of The City Art Gallery:**\
 As the cultural centerpiece of The City District, the gallery is set to expand continually, integrating AI-driven storytelling, real-time virtual performances, and new immersive technologies. It is a space where creativity, technology, and social innovation converge, offering visitors an evolving platform to explore, learn, and co-create in the metaverse.
 
-Whether attending groundbreaking exhibitions, participating in workshops, or discovering the latest iNFT projects, the Art Gallery in The City District of The Rainbowland Metaverse offers an AI-enhanced, ever-evolving, and socially impactful experience that celebrates the limitless possibilities of digital art in 2025 and beyond.
+Whether attending groundbreaking exhibitions, participating in workshops, or discovering the latest iNFT projects, the Art Gallery in The City District of AquaTerra World offers an AI-enhanced, ever-evolving, and socially impactful experience that celebrates the limitless possibilities of digital art in 2025 and beyond.

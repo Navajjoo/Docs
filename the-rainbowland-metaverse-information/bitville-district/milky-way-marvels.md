@@ -8,7 +8,7 @@ description: Crypto Planets
 
 #### Beyond a Game: A Galactic Simulation
 
-As a space explorer, you are not only discovering planets - you are **shaping entire worlds**. Each planet you encounter is a unique iNFT, inscribed on the Bitcoin blockchain and available through platforms like Magic Eden, making every celestial body a truly rare collectible with verifiable ownership. But these planets are more than digital art - they are **living simulations** that evolve with your actions and decisions.
+As a space explorer, you are not only discovering planets - you are **shaping entire worlds**. Each planet you encounter is a unique iNFT, inscribed on the Cronos blockchain and available through platforms like EbisusBay, making every celestial body a truly rare collectible with verifiable ownership. But these planets are more than digital art - they are **living simulations** that evolve with your actions and decisions.
 
 #### Key Features for 2025 and Beyond:
 
@@ -36,7 +36,7 @@ Planets and resources can be traded or sold in the marketplace, enabling a fully
 2. **Minting of Elemental Essence iNFTs** - Resource tokens unlock the potential for travel, terraforming, and trade.
 3. **Milky Way Marvels App Launch** - A fully immersive gaming platform with AI-powered exploration tools.
 4. **Terraforming & Colony Modules** - Players begin transforming planets and establishing long-term civilizations.
-5. **Cross-Metaverse Portals** - Integration with other Rainbowland districts and parallel timelines.
+5. **Cross-Metaverse Portals** - Integration with other AquaTerra World districts and parallel timelines.
 
 #### Social & Educational Impact
 

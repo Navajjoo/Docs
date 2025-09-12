@@ -1,14 +1,14 @@
 ---
-description: What is the BitVille District of Rainbowland Metaverse?
+description: What is the BitVille District of AquaTerra World?
 ---
 
 # 🎭 BitVille District
 
-**BitVille District** is one of the most unique and experimental areas within The Rainbowland Metaverse. Conceived as a bold technological experiment, BitVille was created on the **Bitcoin chain**, making it not only independent from our primary infrastructure on the Cronos chain but also a completely **parallel timeline** within the metaverse. This separation gives BitVille its own identity, ecosystem, and rules of interaction.
+**BitVille District** is one of the most unique and experimental areas within AquaTerra World. Conceived as a bold technological experiment, BitVille was created on the **Bitcoin chain**, making it not only independent from our primary infrastructure on the Cronos chain but also a completely **parallel timeline** within the metaverse. This separation gives BitVille its own identity, ecosystem, and rules of interaction.
 
 #### A Parallel Reality
 
-Unlike the coordinates on the Cronos-based map, BitVille exists as a **standalone district** — a different layer of reality. It does not mirror existing land or repeat plots from the main Rainbowland map. Instead, it opens up an entirely new environment, functioning as a **separate dimension** within the metaverse. Portals will allow users to **travel between worlds**, crossing from Cronos-based Rainbowland into the Bitcoin-powered BitVille, blending experiences across chains and timelines.
+Unlike the coordinates on the Cronos-based map, BitVille exists as a **standalone district** — a different layer of reality. It does not mirror existing land or repeat plots from the main AquaTerra World map. Instead, it opens up an entirely new environment, functioning as a **separate dimension** within the metaverse. Portals will allow users to **travel between worlds**, crossing from Cronos-based AquaTerra World into the Bitcoin-powered BitVille, blending experiences across chains and timelines.
 
 #### AI Governance and Control Systems
 

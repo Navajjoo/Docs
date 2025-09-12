@@ -1,12 +1,12 @@
-# 🏝️ What is The Rainbowland $LANDs?
+# 🏝️ What is AquaTerra World $LANDs?
 
-The **Rainbowland Metaverse** is a next-generation blockchain-based virtual world that seamlessly merges **artificial intelligence, digital ownership, and community-driven creativity**. Designed for 2025 and beyond, it is more than just a place to play or socialize — it is an **AI-powered ecosystem** where innovation, collaboration, and real-world impact converge.
+AquaTerra World is a next-generation blockchain-based virtual world that seamlessly merges **artificial intelligence, digital ownership, and community-driven creativity**. Designed for 2025 and beyond, it is more than just a place to play or socialize — it is an **AI-powered ecosystem** where innovation, collaboration, and real-world impact converge.
 
-### LAND in Rainbowland
+### LAND in AquaTerra World
 
-Rainbowland’s virtual real estate consists of **409,600 LANDs**, each measuring **16m x 16m (256 sq.m.)**, equating to **2,755 sq.ft. or 0.063 acres**. Coordinates span from **X: -128 to 511, Y: -128 to 511**, ensuring each plot is unique and indivisible.
+AquaTerra World virtual real estate consists of **409,600 LANDs**, each measuring **16m x 16m (256 sq.m.)**, equating to **2,755 sq.ft. or 0.063 acres**. Coordinates span from **X: -128 to 511, Y: -128 to 511**, ensuring each plot is unique and indivisible.
 
-But LAND in Rainbowland is not just space — it is **alive with data, resources, and potential**:
+But LAND in AquaTerra World is not just space — it is **alive with data, resources, and potential**:
 
 * 🌍 **Unique Resources** – Each parcel contains natural or technological resources (platinum, gold, rare elements, energy nodes, or even AI-data streams), visible directly on the **interactive Metaverse map**.
 * 🏗️ **Functional Assets** – Buildings, marketplaces, cultural hubs, and entertainment venues can be placed on each LAND, visible in real time for everyone exploring the map.
@@ -14,7 +14,7 @@ But LAND in Rainbowland is not just space — it is **alive with data, resources
 
 ### AI Integration: Living Intelligence in the Metaverse
 
-What makes Rainbowland unique in 2025 is its **resident Artificial Intelligence**. This is not just background code — it is a **living intelligence within the Metaverse**, built as part of the **Nix AI Ecosystem**.
+What makes AquaTerra World unique in 2025 is its **resident Artificial Intelligence**. This is not just background code — it is a **living intelligence within the Metaverse**, built as part of the **Nix AI Ecosystem**.
 
 AI governs and enhances the Metaverse in multiple ways:
 
@@ -32,7 +32,7 @@ AI governs and enhances the Metaverse in multiple ways:
 
 ### Social & Global Impact
 
-Rainbowland is not just a digital playground — it is a **socially impactful ecosystem**:
+AquaTerra World is not just a digital playground — it is a **socially impactful ecosystem**:
 
 * 🌐 **Education & Research** – Schools and universities can use LANDs for virtual campuses, AI-driven classrooms, and simulations of science, art, or history.
 * 💼 **Economic Empowerment** – LAND owners and creators gain access to new revenue streams through resource trading, events, and play-to-earn models.
@@ -41,9 +41,9 @@ Rainbowland is not just a digital playground — it is a **socially impactful ec
 
 ### A Vision for the Future
 
-As all LANDs are minted and ownership spreads globally, Rainbowland will evolve into a **decentralized civilization**. Cities will rise, forests will be preserved, planets will be connected through portals, and AI will continue to shape the destiny of the Metaverse in harmony with its inhabitants.
+As all LANDs are minted and ownership spreads globally, AquaTerra World will evolve into a **decentralized civilization**. Cities will rise, forests will be preserved, planets will be connected through portals, and AI will continue to shape the destiny of the Metaverse in harmony with its inhabitants.
 
-Rainbowland Metaverse is not just entertainment. It is a **model of digital living, a hub of creativity, and a reflection of humanity’s journey into the age of AI and Web3.**
+AquaTerra World is not just entertainment. It is a **model of digital living, a hub of creativity, and a reflection of humanity’s journey into the age of AI and Web3.**
 
 Welcome to the future of community, innovation, and imagination.\
-**Welcome to Rainbowland.**
+**Welcome to** AquaTerra Worl&#x64;**.**

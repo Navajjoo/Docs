@@ -2,7 +2,7 @@
 
 **Introducing Golden Ape: the ultimate PFP collection that merges art, identity, and the power of artificial intelligence.**
 
-Each Golden Ape is not only a **profile picture iNFT inscribed on the Cronos and Bitcoin blockchain** but also a **playable 3D avatar**within the Rainbowland Metaverse. Owners can proudly display their apes in the **prestigious Art Gallery of V-City, the capital district**, where culture, innovation, and technology converge.
+Each Golden Ape is not only a **profile picture iNFT inscribed on the Cronos and Bitcoin blockchain** but also a **playable 3D avatar**within the AquaTerra World. Owners can proudly display their apes in the **prestigious Art Gallery of V-City, the capital district**, where culture, innovation, and technology converge.
 
 But Golden Ape is much more than digital art - it is a **living collection** at the intersection of creativity, community, and cutting-edge AI.
 
@@ -28,7 +28,7 @@ The Golden Ape collection symbolizes the fusion of **luxury, culture, and digita
 * Mystical shamans channel cosmic wisdom.
 * Futuristic apes hint at humanity’s leap toward post-digital identity.
 
-Together, they form a **flourishing society of avatars** that celebrates both individuality and belonging within the Rainbowland Metaverse.
+Together, they form a **flourishing society of avatars** that celebrates both individuality and belonging within the AquaTerra World.
 
 #### The Future of Golden Ape
 
