@@ -12,7 +12,7 @@
 
 ## 🏙️ The Rainbowland Metaverse Information
 
-* [Intelligent NFT (iNFT) in The Rainbowland Metaverse](the-rainbowland-metaverse-information/intelligent-nft-inft-in-the-rainbowland-metaverse.md)
+* [Intelligent NFT (iNFT) in AquaTerra World](the-rainbowland-metaverse-information/intelligent-nft-inft-in-aquaterra-world.md)
 * [🎭 Art Gallery | Capital City](the-rainbowland-metaverse-information/art-gallery-or-capital-city.md)
   * [🌎 Milky Way Marvels](the-rainbowland-metaverse-information/bitville-district/milky-way-marvels.md)
   * [🐵 Golden Ape Collection](the-rainbowland-metaverse-information/art-gallery-or-capital-city/golden-ape-collection.md)
