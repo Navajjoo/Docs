@@ -25,7 +25,7 @@ Here are the ways our community can benefit from supporting us:
 
 ### 🪙 3. Token Rewards
 
-* Contributors may receive **NIX tokens** as part of a monthly airdrop.
+* Contributors may receive $**NICS tokens** as part of a monthly airdrop.
 * Tokens can be used for governance, access, or future marketplace activities.
 * Example: Each $1 of contribution → rewarded with a proportional amount of tokens (at a fixed rate set by the project).
 

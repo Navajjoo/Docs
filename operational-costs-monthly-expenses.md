@@ -3,7 +3,7 @@
 ## Transparency & Monthly Operating Costs
 
 We believe in radical transparency.\
-Here is the full breakdown of our expected **monthly operating costs** required to run the NICS Metaverse, including infrastructure, Web3, login/authentication, AI tools, research, and hardware.
+Here is the full breakdown of our expected **monthly operating costs** required to run the AquaTerra World, including infrastructure, Web3, login/authentication, AI tools, research, and hardware.
 
 Supporters of our project can help us cover these expenses either with **monthly subscriptions via Stripe** or **one-time contributions via PayPal or Coinbase Commerce**.
 
@@ -81,7 +81,7 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 🙌 Support the Project
 
-Every contribution directly supports the growth of our metaverse ecosystem.\
+Every contribution directly supports the growth of our AquaTerra World ecosystem.\
 Choose your preferred way to contribute:
 
 * 💳 **Monthly subscription via Stripe** → [Subscribe on Stripe](https://buy.stripe.com/aFa00i9fE3reaqN14NaVa0u)
