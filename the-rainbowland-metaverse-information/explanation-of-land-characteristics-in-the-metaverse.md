@@ -4,13 +4,13 @@ description: LAND and Assets in the AquaTerra World
 
 # 🛠️ Explanation of Land Characteristics in the AquaTerra World:
 
-In the vibrant and evolving AquaTerra World, every piece of LAND is more than just virtual territory — it is a **living, intelligent asset**, enhanced by **AI guardians, blockchain technology, and immersive 3D environments**. With **resources, intelligent companions, real estate, and customizable 3D assets**, Rainbowland sets the stage for a new era of digital civilization in 2025.
+In the vibrant and evolving AquaTerra World, every piece of LAND is more than just virtual territory — it is a **living, intelligent asset**, enhanced by **AI guardians, blockchain technology, and immersive 3D environments**. With **resources, intelligent companions, real estate, and customizable 3D assets**, AquaTerra World sets the stage for a new era of digital civilization in 2025.
 
 ***
 
 ### 🗺️ LAND Coordinates (X, Y)
 
-Each LAND is uniquely positioned on the Rainbowland map, defined by its **X and Y coordinates**. From bustling city hubs to tranquil beachfronts and resource-rich industrial zones, your LAND’s **location impacts its economy, rarity, and community connections**.
+Each LAND is uniquely positioned on the AquaTerra World map, defined by its **X and Y coordinates**. From bustling city hubs to tranquil beachfronts and resource-rich industrial zones, your LAND’s **location impacts its economy, rarity, and community connections**.
 
 ***
 
@@ -35,13 +35,13 @@ Each LAND plot generates **minerals and water**, vital for crafting, terraformin
 
 ### 🏠 Land Types
 
-From **Residential and Business plots** to **Factories, Banks, Beaches, and Cultural Hubs**, LANDs serve diverse functions. Owners can **transform their LAND type using $PRIDE**, with AI assistance ensuring seamless adaptation.
+From **Residential and Business plots** to **Factories, Banks, Beaches, and Cultural Hubs**, LANDs serve diverse functions. Owners can **transform their LAND type using $RAVERSE**, with AI assistance ensuring seamless adaptation.
 
 ***
 
 ### 🚗 Assets and Customization
 
-Beyond LAND, Rainbowland thrives on its **rich ecosystem of 3D assets**. Players can acquire:
+Beyond LAND, AquaTerra World thrives on its **rich ecosystem of 3D assets**. Players can acquire:
 
 * 🚘 **Vehicles** (cars, spaceships, hovercrafts) for travel and trade,
 * 🏡 **Houses, villas, and futuristic residences**,
@@ -54,7 +54,7 @@ These assets aren’t just decorative — they carry **functionality**. Vehicles
 
 ### 🏙️ Radiant Residence Towers – The Future of Real Estate
 
-Rainbowland goes beyond gaming with its **beta version of fully functional Real Estate**, already reshaping how people view digital property. Two iconic skyscrapers have been constructed in the capital:
+AquaTerra World goes beyond gaming with its **beta version of fully functional Real Estate**, already reshaping how people view digital property. Two iconic skyscrapers have been constructed in the capital:
 
 * **Radiant Residence Tower №1** – 108 floors of luxury apartments, penthouses, and offices.
 * **Radiant Residence Tower №2** – an awe-inspiring **1,200 floors**, hosting apartments, restaurants, parking lots, offices, entertainment zones, and social hubs.
@@ -63,13 +63,13 @@ These towers are **living digital cities**, where apartments and offices are alr
 
 With **AI integration**, residents get intelligent assistants that help manage spaces, organize events, handle business operations, or even design interiors based on your style preferences.
 
-Radiant Residence Real Estate demonstrates the **true fusion of Web3, real-world practicality, and social interaction**, making Rainbowland not just a Metaverse, but a **new layer of digital civilization**.
+Radiant Residence Real Estate demonstrates the **true fusion of Web3, real-world practicality, and social interaction**, making AquaTerra World not just a Metaverse, but a **new layer of digital civilization**.
 
 ***
 
 ### 🌍 Social & Global Impact
 
-Rainbowland is designed to bring **value beyond entertainment**:
+AquaTerra World is designed to bring **value beyond entertainment**:
 
 * **Virtual Employment**: Residents can earn by managing properties, creating assets, or hosting events.
 * **Education & Training**: Schools and businesses use Rainbowland for immersive learning and collaboration.
@@ -78,8 +78,8 @@ Rainbowland is designed to bring **value beyond entertainment**:
 
 ***
 
-### 🚀 The Future of Rainbowland
+### 🚀 The Future of AquaTerra World
 
-With its **LAND economy, AI guardians, customizable 3D assets, and pioneering Real Estate towers**, Rainbowland is becoming a **metaverse megacity**, powered by community creativity, AI intelligence, and blockchain transparency.
+With its **LAND economy, AI guardians, customizable 3D assets, and pioneering Real Estate towers**, AquaTerra World is becoming a **metaverse megacity**, powered by community creativity, AI intelligence, and blockchain transparency.
 
-🌟 **Claim your LAND. Build your assets. Live in the Radiant Towers. Shape the future of Rainbowland together.**
+🌟 **Claim your LAND. Build your assets. Live in the Radiant Towers. Shape the future of AquaTerra World together.**

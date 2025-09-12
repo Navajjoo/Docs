@@ -1,12 +1,12 @@
 ---
-description: The First Living Skyscraper of Rainbowland
+description: The First Living Skyscraper of AquaTerra World
 cover: ../../.gitbook/assets/IMG_2364.JPG
 coverY: 0
 ---
 
 # 🏨 🏙️ Radiant Residences Tower I
 
-**Radiant Residences (RAD) Tower I** is not just a building. It is the **first fully functional residential skyscraper in the Rainbowland Metaverse**, located in the very heart of **The City District**. Tower I combines **architectural brilliance, artificial intelligence, iNFT technology, and decentralized economy**, transforming virtual space into a real home of the future.
+**Radiant Residences (RAD) Tower I** is not just a building. It is the **first fully functional residential skyscraper in AquaTerra World**, located in the very heart of **The City District**. Tower I combines **architectural brilliance, artificial intelligence, iNFT technology, and decentralized economy**, transforming virtual space into a real home of the future.
 
 ***
 
@@ -17,7 +17,7 @@ Radiant Residences Tower I consists of **108 floors**, hosting more than **1,200
 * 🌊 One side of the tower overlooks the open sea with breathtaking panoramic views.
 * 🌆 The other three sides embrace the bustling urban life of the capital.
 
-Every unit is a **blockchain-verified NFT property**, unique and indivisible.
+Every unit is a **blockchain-verified iNFT property**, unique and indivisible.
 
 ***
 
@@ -81,41 +81,8 @@ This skyscraper is an **icon of the new era of Rainbowland Metaverse**:
 
 **Radiant Residences is not just a tower. It is the future of digital civilization.**
 
-👉 Verified Collection and Brand on **Ebisu’s Bay Platform**: _tap to buy_
-
 ***
 
-Do you want me to now **expand Tower II (1200 floors)** into a futuristic “hyper-megacity” concept page in the same style?
-
-* 🎨 Проходят **выставки, концерты и цифровые фестивали**, объединяющие жителей со всего мира.
-* 🌍 Владелец апартаментов получает не просто жильё, а **платформу для взаимодействия, творчества и бизнеса**.
-
-Башня становится **цифровым городом внутри города**, местом, где люди живут, работают, учатся и создают вместе.
-
-***
-
-### 🚀 Radiant Residences Tower I – символ будущего
-
-Этот небоскрёб — **икона нового этапа Rainbowland Metaverse**:
-
-* первый полностью функциональный жилой и коммерческий комплекс,
-* интеграция **iNFT и AI** для управления недвижимостью,
-* модель будущего, где виртуальная жизнь не уступает реальной.
-
-**Radiant Residences — это не просто башня. Это будущее цифровой цивилизации.**
-
-👉 Verified Collection and Brand on **Ebisu’s Bay Platform**: _tap to buy_
-
-***
-
-Хочешь, я сделаю ещё **отдельное описание для Radiant Residences Tower II** (1200 этажей) — как гипер-мегаполиса будущего? Metaverse, specifically in The City district. This architectural marvel represents a collection of 1,200 luxurious apartments, penthouses, offices, and stores spread across an impressive 108 floors. With one side of the building overlooking the vast sea and the other three sides embracing the bustling urban landscape, Radiant Residences offers a truly captivating living and working experience. \
-\
-By staking Radiant Residences (RAD) NFTs, participants unlock a gateway to a world of lucrative opportunities within the Rainbowland Metaverse. As a valued member of the Radiant community, your ownership of these prestigious properties allows you to tap into the immense potential for generating passive income. Through the process of staking these NFTs, participants earn rewards in the form of $RaVerse (symbol: $RaVerse), the official currency of the Rainbowland Metaverse. \
-\
-These rewards not only reflect the vibrant economy of Rainbowland but also serve as a testament to your status as an esteemed property owner within the Radiant Residences. Step into the immersive world of Rainbowland and embrace the chance to reap the benefits of your staked Radiant Residences NFTs. \
-\
-Join Radiant Stakings today and become an integral part of the flourishing Rainbowland community while unlocking the potential for both financial growth and enchanting experiences.\
-\
-Verified Collection and Brand on Ebisu's Bay Platform: [tap to bu](https://app.ebisusbay.com/collection/cronos/radiant-residences)[y](https://app.ebisusbay.com/collection/cronos/radiant-residences)
+👉 Verified Collection and Brand on **Ebisu’s Bay Platform**: [tap to bu](https://app.ebisusbay.com/collection/cronos/radiant-residences)[y](https://app.ebisusbay.com/collection/cronos/radiant-residences)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-09-17 at 20.38.32.png" alt="Radiant Residences on Ebisusbay marketplace"><figcaption></figcaption></figure>
