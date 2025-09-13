@@ -23,9 +23,9 @@
 * [🏢 🏙️ Radiant Residences Tower II](the-rainbowland-metaverse-information/radiant-residences-tower-ii.md)
 * [🌆 AquaTerra World Map](the-rainbowland-metaverse-information/aquaterra-world-map.md)
 * [🏪 The Rainbowland Merchandise](the-rainbowland-metaverse-information/the-rainbowland-merchandise.md)
-* [☕ Support the Development of The Rainbowland Metaverse](the-rainbowland-metaverse/support-the-development-of-the-rainbowland-metaverse.md)
+* [☕ Support the Development of AquaTerra World](the-rainbowland-metaverse-information/support-the-development-of-aquaterra-world.md)
 
 ***
 
-* [💎 $RAVERSE - The Heart of AquaTerra World](usdraverse-the-heart-of-aquaterra-world.md)
+* [💎 $RAVERSE - The Heart of AquaTerra World](usdraverse-the-heart-of-rainbowland-metaverse-economy.md)
 * [🛣️ Roadmap](roadmap.md)
