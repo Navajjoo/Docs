@@ -1,5 +1,5 @@
 ---
-description: Rainbowland Metaverse RoadMap – September 2025
+description: AquaTerra World RoadMap – September 2025
 ---
 
 # 🛣️ Roadmap
@@ -16,9 +16,9 @@ description: Rainbowland Metaverse RoadMap – September 2025
 * Release of a **dynamic, AI-enhanced metaverse map** allowing real-time visualization of land plots, real estate, and planetary assets.
 * Map includes **resource analysis, environmental data, and predictive modeling** to optimize land and planetary usage.
 
-**3. Release of Rainbowland Coin – $RaVerse**
+**3. Release of AquaTerra World Coin – $RaVerse**
 
-* Introduced $RaVerse as the **primary economic instrument** within Rainbowland.
+* Introduced $RaVerse as the **primary economic instrument** within AquaTerra World.
 * Actively used for rewards, staking, trading, and supporting AI-driven automation of economic and social systems.
 
 **4. iNFT Collection for Ownership**
@@ -32,7 +32,7 @@ description: Rainbowland Metaverse RoadMap – September 2025
 
 **1. AI-Driven Land and Real Estate Management**
 
-* Deployment of the **Rainbowland AI** within Radiant Residences and selected LAND plots.
+* Deployment of the **AquaTerra World AI** within Radiant Residences and selected LAND plots.
 * AI will assist in **resource management, structural optimization, and predictive maintenance**, providing real-world educational insights into urban planning, ecology, and infrastructure.
 * AI companions will serve as **mentors, business advisors, educators, and personal guides**.
 
@@ -88,7 +88,7 @@ description: Rainbowland Metaverse RoadMap – September 2025
 
 ### **Vision**
 
-Rainbowland Metaverse is no longer just a virtual world—it is a **fully integrated AI-powered educational, social, and economic ecosystem**.
+AquaTerra World is no longer just a virtual world—it is a **fully integrated AI-powered educational, social, and economic ecosystem**.
 
 * For **individuals**, it offers creativity, learning, and immersive experiences.
 * For **businesses and governments**, it provides advanced simulations, resource planning, and research tools.
