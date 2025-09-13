@@ -27,5 +27,5 @@
 
 ***
 
-* [💎 $RaVerse - The Heart of Rainbowland Metaverse Economy](usdraverse-the-heart-of-rainbowland-metaverse-economy.md)
+* [💎 $RAVERSE - The Heart of AquaTerra World](usdraverse-the-heart-of-aquaterra-world.md)
 * [🛣️ Roadmap](roadmap.md)
