@@ -9,6 +9,8 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ***
 
+💻 Infrastructure (Microsoft Azure)
+
 | Category                   | Service / Description                                                                     | Monthly Cost (USD) | Support                                                                                                                                                      |
 | -------------------------- | ----------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Main Compute**           | Azure NVadsA10 v5 VM (2× NVIDIA A10 GPU, 24 vCPU, 220 GB RAM) – Unity Metaverse rendering | $2,800             | [![Support $2,800](https://img.shields.io/badge/Support-$2,800-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/3cIeVcgI66DqaqNeVDaVa03)       |
@@ -24,12 +26,12 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 🌐 Web3 & Authentication
 
-| Category                | Service / Description                      | Monthly Cost (USD) | Support                                                              |
-| ----------------------- | ------------------------------------------ | ------------------ | -------------------------------------------------------------------- |
-| Web3 Infra              | Alchemy / Infura RPC (ETH & Polygon nodes) | $200               | [Support](https://buy.stripe.com/6oUcN4crQaTGcyV28RaVa0b)            |
-| Wallet Integration      | Web3Modal / RainbowKit (enterprise tier)   | $100               | [Support](https://buy.stripe.com/aFa7sK77wf9WgPb14NaVa0c)            |
-| Auth / Social Login     | Microsoft Entra ID B2C / Auth0 (10k MAU)   | $150               | [Support](https://buy.stripe.com/bJe7sK0J83re8iF5l3aVa0d)            |
-| **Total (Web3 & Auth)** |                                            | **$450**           | [Support Web3 Total](https://buy.stripe.com/dRm5kC9fE7Hu0Qd7tbaVa0e) |
+| Category                | Service / Description                      | Monthly Cost (USD) | Support                                                                                                                                                  |
+| ----------------------- | ------------------------------------------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Web3 Infra              | Alchemy / Infura RPC (ETH & Polygon nodes) | $200               | [![Support $200](https://img.shields.io/badge/Support-$200-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/6oUcN4crQaTGcyV28RaVa0b)      |
+| Wallet Integration      | Web3Modal / RainbowKit (enterprise tier)   | $100               | [![Support $100](https://img.shields.io/badge/Support-$100-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/aFa7sK77wf9WgPb14NaVa0c)      |
+| Auth / Social Login     | Microsoft Entra ID B2C / Auth0 (10k MAU)   | $150               | [![Support $150](https://img.shields.io/badge/Support-$150-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/bJe7sK0J83re8iF5l3aVa0d)      |
+| **Total (Web3 & Auth)** |                                            | **$450**           | [![Support Total $450](https://img.shields.io/badge/Support-$450-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/dRm5kC9fE7Hu0Qd7tbaVa0e) |
 
 ***
 
