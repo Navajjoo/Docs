@@ -2,7 +2,7 @@
 description: Version 1.1.0
 ---
 
-# 🌆 AquaTerra World Map
+# 🌆 AquaTerra World Map and Districts
 
 <figure><img src="../.gitbook/assets/Metaverse_Cronos_Image_small.jpg" alt="The Rainbowland Metaverse Map"><figcaption><p>409600 LANDs</p></figcaption></figure>
 
@@ -46,4 +46,4 @@ description: Version 1.1.0
     With this unique option, families and friends can create a virtual memorial for their loved ones, complete with personal memories, photos, and messages. These digital memorials serve as a permanent tribute to the life and legacy of the deceased, preserving their memory for future generations to remember and cherish.\
 
 
-    So, if you are looking for a way to honor and remember your loved ones, come to The Digital Graveyard. Here, you can ensure that their memory will live on forever in the digital world. Join us in this exciting new chapter of the AquaTerra World and experience the power of perpetuating the digital identity of a person after their death.
+    So, if you are looking for a way to honor and remember your loved ones, come to The Digital Graveyard. Here, you can ensure that their memory will live on forever in the digital world. Join us in this exciting new chapter of the AquaTerra World and experience the power of perpetuating the digital identity of any persons.&#x20;

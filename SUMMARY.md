@@ -22,7 +22,7 @@
 * [🛠️ Explanation of Land Characteristics in the AquaTerra World:](the-rainbowland-metaverse-information/explanation-of-land-characteristics-in-the-metaverse.md)
 * [🏨 🏙️ Radiant Residences Tower I](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
 * [🏢 🏙️ Radiant Residences Tower II](the-rainbowland-metaverse-information/radiant-residences-tower-ii.md)
-* [🌆 AquaTerra World Map](the-rainbowland-metaverse-information/aquaterra-world-map.md)
+* [🌆 AquaTerra World Map and Districts](the-rainbowland-metaverse-information/aquaterra-world-map-and-districts.md)
 * [🏪 AquaTerra World Merchandise](the-rainbowland-metaverse-information/aquaterra-world-merchandise.md)
 * [☕ Support the Development of AquaTerra World](the-rainbowland-metaverse-information/support-the-development-of-aquaterra-world.md)
 
