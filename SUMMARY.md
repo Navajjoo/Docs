@@ -5,6 +5,7 @@
 * [Purpose of AquaTerra World and Other Metaverses?](purpose-of-aquaterra-world-and-other-metaverses.md)
 * [💕 Community Motivation & Rewards](community-motivation-and-rewards.md)
 * [💰 Operational Costs / Monthly Expenses](operational-costs-monthly-expenses.md)
+* [🌃 AquaTerra World](aquaterra-world.md)
 * [🏭 Azure VM Configurations / Metaverse Infrastructure](azure-vm-configurations-metaverse-infrastructure.md)
 * [💭 The Vision](the-vision.md)
 * [🧏 Main Idea](main-idea.md)
