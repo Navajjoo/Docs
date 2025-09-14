@@ -9,7 +9,7 @@
 * [🏭 Azure VM Configurations / Metaverse Infrastructure](azure-vm-configurations-metaverse-infrastructure.md)
 * [💭 The Vision](the-vision.md)
 * [🧏 Main Idea](main-idea.md)
-* [🕵️‍♂️ Meet the Team](meet-the-team.md)
+* [🕵️‍♂️ Meet the Team AquaTerra World](meet-the-team-aquaterra-world.md)
 
 ## 🏙️ The Rainbowland Metaverse Information
 
