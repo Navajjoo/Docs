@@ -75,16 +75,15 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 🌍 Summary
 
-| Category                          | Monthly Cost (USD) |
-| --------------------------------- | ------------------ |
-| Infrastructure                    | $4,980             |
-| Web3 & Auth                       | $450               |
-| AI & Tools                        | €240               |
-| Education                         | $100               |
-| Hardware                          | €13729             |
-| **Total Monthly Operating Costs** | **$21,886**        |
-
-[Support Hardware + Full Monthly Operating Cost ($21,866)](https://buy.stripe.com/00waEW3Vk7Hu56t9BjaVa0t)
+| Category                          | Monthly Cost (USD) | Support                                                                                                                                             |
+| --------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Infrastructure                    | $4,980             | [![Support $4,980](https://img.shields.io/badge/Support-$4,980-blue?style=for-the-badge\&logo=stripe)](https://your-link.com/infra-total)           |
+| Web3 & Auth                       | $450               | [![Support $450](https://img.shields.io/badge/Support-$450-blue?style=for-the-badge\&logo=stripe)](https://your-link.com/web3-total)                |
+| AI & Tools                        | $240               | [![Support $240](https://img.shields.io/badge/Support-$240-blue?style=for-the-badge\&logo=stripe)](https://your-link.com/ai-tools-total)            |
+| Education & Research              | $100               | [![Support $100](https://img.shields.io/badge/Support-$100-blue?style=for-the-badge\&logo=stripe)](https://your-link.com/education-total)           |
+| Hardware (amortized)              | $510               | [![Support $510](https://img.shields.io/badge/Support-$510-blue?style=for-the-badge\&logo=stripe)](https://your-link.com/hardware-total)            |
+| Documentation & Graphics          | $164.28            | [![Support $164.28](https://img.shields.io/badge/Support-$164.28-blue?style=for-the-badge\&logo=stripe)](https://your-link.com/docs-graphics-total) |
+| **Total Monthly Operating Costs** | **$21,954.28**     | [![Support Total](https://img.shields.io/badge/Support-$21,954.28-blue?style=for-the-badge\&logo=stripe)](https://your-link.com/full-total)         |
 
 ***
 
