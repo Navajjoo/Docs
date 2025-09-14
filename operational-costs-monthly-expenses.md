@@ -50,11 +50,11 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 📚 Education & Research
 
-| Category                         | Service / Description         | Monthly Cost (USD) | Support                                                             |
-| -------------------------------- | ----------------------------- | ------------------ | ------------------------------------------------------------------- |
-| Online Courses                   | Coursera Team Subscription    | $60                | [Support](https://buy.stripe.com/9B6bJ03Vk6Dq42p00JaVa0l)           |
-| Research                         | Academic Journals & Data APIs | $40                | [Support](https://buy.stripe.com/5kQ3cu9fE7HudCZ5l3aVa0m)           |
-| **Total (Education & Research)** |                               | **$100**           | [Support Edu Total](https://buy.stripe.com/28E28q4Zo6Dq9mJ6p7aVa0n) |
+| Category                         | Service / Description         | Monthly Cost (USD) | Support                                                                                                                                                  |
+| -------------------------------- | ----------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Online Courses                   | Coursera Team Subscription    | $60                | [![Support $60](https://img.shields.io/badge/Support-$60-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/9B6bJ03Vk6Dq42p00JaVa0l)        |
+| Research                         | Academic Journals & Data APIs | $40                | [![Support $40](https://img.shields.io/badge/Support-$40-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/5kQ3cu9fE7HudCZ5l3aVa0m)        |
+| **Total (Education & Research)** |                               | **$100**           | [![Support Total $100](https://img.shields.io/badge/Support-$100-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/28E28q4Zo6Dq9mJ6p7aVa0n) |
 
 ***
 
