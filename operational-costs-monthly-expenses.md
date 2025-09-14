@@ -58,9 +58,15 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ***
 
-### 🖥 Hardware (One-Time)
+### 🖥 Hardware
 
-<table><thead><tr><th>Category</th><th>Service / Description</th><th>Cost (USD)</th><th width="136">Amortized Monthly (USD)</th><th>Support</th></tr></thead><tbody><tr><td>Developer Hardware</td><td>Apple MacBook Pro (M4 Max, 16-core CPU/40-core GPU, 128GB RAM, 1TB SSD)</td><td>€4000</td><td>~€180</td><td><a href="https://buy.stripe.com/00waEW8bA1j6eH328RaVa0o">Support</a></td></tr><tr><td>VR Testing</td><td>Meta Quest 3 Pro + accessories</td><td>€1,200</td><td>~€50</td><td><a href="https://buy.stripe.com/5kQdR83Vk7HueH300JaVa0p">Support</a></td></tr><tr><td>Mac Studio M3 Ultra</td><td>32-core CPU, 80-core GPU, 512 GB RAM, 16 TB SSD</td><td>€4,529</td><td>~€160</td><td><a href="https://buy.stripe.com/4gMcN42RgbXKbuR9BjaVa0q">Support</a></td></tr><tr><td>Servers (local dev)</td><td>Mini-cluster for testing</td><td>€4,000</td><td>~€120</td><td><a href="https://buy.stripe.com/00w14mezYf9WfL714NaVa0r">Support</a></td></tr><tr><td><strong>Total (Hardware)</strong></td><td></td><td>€13<strong>,729</strong></td><td>€<strong>510</strong></td><td><a href="https://buy.stripe.com/cNi14m4Zo9PCfL77tbaVa0s">Support HW Total</a></td></tr></tbody></table>
+| Category             | Item / Description                                                 | Cost (USD)  | Support                                                                                                                                                        |
+| -------------------- | ------------------------------------------------------------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Developer Hardware   | MacBook Pro M4 Max (16-core CPU / 40-core GPU, 128GB RAM, 1TB SSD) | $4,700      | [![Support $4,700](https://img.shields.io/badge/Support-$4,700-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00waEW8bA1j6eH328RaVa0o)         |
+| VR Testing           | Meta Quest 3 Pro + accessories                                     | $1,408      | [![Support $1,408](https://img.shields.io/badge/Support-$1,408-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/5kQdR83Vk7HueH300JaVa0p)        |
+| Workstations         | Mac Studio M3 Ultra (Max configuration)                            | $17,624     | [![Support $17,624](https://img.shields.io/badge/Support-$17,624-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/fZucN4gI69PC56t7tbaVa0B)       |
+| Servers (local dev)  | Mini-cluster for testing                                           | $4,694      | [![Support $4,694](https://img.shields.io/badge/Support-$4,694-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00w14mezYf9WfL714NaVa0r)        |
+| **Total (Hardware)** |                                                                    | **$28,426** | [![Support Total $28,426](https://img.shields.io/badge/Support-$28,426-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/14A4gy63s6Dq9mJ14NaVa0C) |
 
 ***
 
