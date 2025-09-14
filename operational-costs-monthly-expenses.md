@@ -98,9 +98,10 @@ Supporters of our project can help us cover these expenses either with **monthly
 Every contribution directly supports the growth of our AquaTerra World ecosystem.\
 Choose your preferred way to contribute:
 
-* 💳 **Monthly subscription via Stripe** → [Subscribe on Stripe](https://buy.stripe.com/aFa00i9fE3reaqN14NaVa0u)
-* 🅿️ **One-time support via PayPal** → [PayPal.me/StellarExplorer](https://paypal.me/StellarExplorer)
-* 🪙 **One-time crypto contribution via Coinbase Commerce** → [Support with Crypto](https://commerce.coinbase.com/checkout/5ac579ab-c8fa-4fc0-8483-23344e53e19e)
+[![Subscribe on Stripe](https://img.shields.io/badge/Subscribe-Stripe-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/aFa00i9fE3reaqN14NaVa0u)\
+[![Support with PayPal](https://img.shields.io/badge/Support-PayPal-00457C?style=for-the-badge\&logo=paypal)](https://paypal.me/StellarExplorer)\
+[![Support with Crypto](https://img.shields.io/badge/Support-Crypto-F7931A?style=for-the-badge\&logo=bitcoin)](https://commerce.coinbase.com/checkout/5ac579ab-c8fa-4fc0-8483-23344e53e19e)\
+[![Support via GitHub Sponsors](https://img.shields.io/badge/Support-GitHub%20Sponsors-6e5494?style=for-the-badge\&logo=github)](https://github.com/sponsors/YourProfile)
 
-Thank you for being part of our journey.\
-Together we are building the future of the decentralized metaverse. 🌍✨
+✨ Thank you for being part of our journey.\
+🌍 Together we are building the future of the decentralized metaverse.
