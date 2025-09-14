@@ -66,7 +66,7 @@ Supporters of our project can help us cover these expenses either with **monthly
 | VR Testing           | Meta Quest 3 Pro + accessories                                     | $1,408      | [![Support $1,408](https://img.shields.io/badge/Support-$1,408-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/5kQdR83Vk7HueH300JaVa0p)        |
 | Workstations         | Mac Studio M3 Ultra (Max configuration)                            | $17,624     | [![Support $17,624](https://img.shields.io/badge/Support-$17,624-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/fZucN4gI69PC56t7tbaVa0B)       |
 | Servers (local dev)  | Mini-cluster for testing                                           | $4,694      | [![Support $4,694](https://img.shields.io/badge/Support-$4,694-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00w14mezYf9WfL714NaVa0r)        |
-| **Total (Hardware)** |                                                                    | **$28,426** | [![Support Total $28,426](https://img.shields.io/badge/Support-$28,426-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/14A4gy63s6Dq9mJ14NaVa0C) |
+| **Total (Hardware)** |                                                                    | **$28,426** | [![Support Total $28,426](https://img.shields.io/badge/Support-$28,426-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/5kQeVc3Vk3reeH37tbaVa0E) |
 
 ***
 
@@ -87,7 +87,7 @@ Supporters of our project can help us cover these expenses either with **monthly
 | Web3 & Auth                       | $450               | [![Support $450](https://img.shields.io/badge/Support-$450-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/dRm5kC9fE7Hu0Qd7tbaVa0e)            |
 | AI & Tools                        | $240               | [![Support $240](https://img.shields.io/badge/Support-$240-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/cNiaEWfE22nacyV14NaVa0k)            |
 | Education & Research              | $100               | [![Support $100](https://img.shields.io/badge/Support-$100-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/28E28q4Zo6Dq9mJ6p7aVa0n)            |
-| Hardware                          | $28,426            | [![Support $28,426](https://img.shields.io/badge/Support-$28,426-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/cNi14m4Zo9PCfL77tbaVa0s)       |
+| Hardware                          | $28,426            | [![Support $28,426](https://img.shields.io/badge/Support-$28,426-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/5kQeVc3Vk3reeH37tbaVa0E)       |
 | Documentation & Graphics          | $160               | [![Support $160](https://img.shields.io/badge/Support-$160-green?style=for-the-badge\&logo=stripe)](https://your-link.com/docs-graphics-total)                 |
 | **Total Monthly Operating Costs** | **$34,356**        | [![Support Total $34,356](https://img.shields.io/badge/Support-$34,356-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/9B66oGbnM9PC56t8xfaVa0D) |
 
