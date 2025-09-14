@@ -37,14 +37,14 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 🤖 AI & Tools
 
-| Category               | Service / Description                | Monthly Cost (USD) | Support                                                            |
-| ---------------------- | ------------------------------------ | ------------------ | ------------------------------------------------------------------ |
-| AI Tools               | ChatGPT Premium                      | $24                | [Support](https://buy.stripe.com/bJecN40J80f20Qd5l3aVa0f)          |
-| AI Tools               | Claude / Anthropic API credits       | €100               | [Support](https://buy.stripe.com/aFabJ02Rgf9W0Qd00JaVa0j)          |
-| Automation             | n8n Cloud (workflow automation)      | €50                | [Support](https://buy.stripe.com/00w5kCbnM0f2buR6p7aVa0g)          |
-| Dev Tools              | GitHub Pro + Actions CI/CD           | €40                | [Support](https://buy.stripe.com/3cI8wOcrQ1j67eB4gZaVa0h)          |
-| Collaboration          | Slack / Discord Nitro + integrations | €30                | [Support](https://buy.stripe.com/00w3cu9fE7Hu0QdfZHaVa0i)          |
-| **Total (AI & Tools)** |                                      | €**240**           | [Support AI Total](https://buy.stripe.com/cNiaEWfE22nacyV14NaVa0k) |
+| Category               | Service / Description                | Monthly Cost (USD) | Support                                                                                                                                                  |
+| ---------------------- | ------------------------------------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI Tools               | ChatGPT Premium                      | $24                | [![Support $20](https://img.shields.io/badge/Support-$20-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/bJecN40J80f20Qd5l3aVa0f)        |
+| AI Tools               | Claude / Anthropic API credits       | $100               | [![Support $100](https://img.shields.io/badge/Support-$100-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/aFabJ02Rgf9W0Qd00JaVa0j)      |
+| Automation             | n8n Cloud (workflow automation)      | $50                | [![Support $50](https://img.shields.io/badge/Support-$50-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00w5kCbnM0f2buR6p7aVa0g)        |
+| Dev Tools              | GitHub Pro + Actions CI/CD           | $40                | [![Support $40](https://img.shields.io/badge/Support-$40-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/3cI8wOcrQ1j67eB4gZaVa0h)        |
+| Collaboration          | Slack / Discord Nitro + integrations | $30                | [![Support $30](https://img.shields.io/badge/Support-$30-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00w3cu9fE7Hu0QdfZHaVa0i)        |
+| **Total (AI & Tools)** |                                      | **$240**           | [![Support Total $240](https://img.shields.io/badge/Support-$240-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/cNiaEWfE22nacyV14NaVa0k) |
 
 ***
 
