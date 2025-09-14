@@ -66,12 +66,12 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 📑 Documentation & Graphics
 
-| Category                    | Service / Description             | Monthly Cost (EUR) | Support                                                                                                                                                 |
-| --------------------------- | --------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Documentation               | GitBook (team plan)               | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-brightgreen?style=for-the-badge\&logo=buymeacoffee)](https://your-link.com/gitbook)    |
-| Graphics Tool               | Lavabla (design & creative suite) | €100               | [![Support €100](https://img.shields.io/badge/Support-%E2%82%AC100-blue?style=for-the-badge\&logo=paypal)](https://your-link.com/lavabla)               |
-| Graphics Tool               | Gamma (presentation & design)     | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-brightgreen?style=for-the-badge\&logo=stripe)](https://your-link.com/gamma)            |
-| **Total (Docs & Graphics)** |                                   | **€140**           | [![Support €140](https://img.shields.io/badge/Support-%E2%82%AC140-blue?style=for-the-badge\&logo=coinbase)](https://your-link.com/docs-graphics-total) |
+| Category                    | Service / Description             | Monthly Cost (EUR) | Support                                                                                                                                                               |
+| --------------------------- | --------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Documentation               | GitBook (team plan)               | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-brightgreen?style=for-the-badge\&logo=buymeacoffee)](https://buy.stripe.com/bJe5kC4ZobXKfL76p7aVa0v) |
+| Graphics Tool               | Lavabla (design & creative suite) | €100               | [![Support €100](https://img.shields.io/badge/Support-%E2%82%AC100-blue?style=for-the-badge\&logo=paypal)](https://buy.stripe.com/7sY28q63s8Ly8iF8xfaVa0w)            |
+| Graphics Tool               | Gamma (presentation & design)     | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-brightgreen?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00w9ASezY5zm8iF4gZaVa0x)       |
+| **Total (Docs & Graphics)** |                                   | **€140**           | [![Support €140](https://img.shields.io/badge/Support-%E2%82%AC140-blue?style=for-the-badge\&logo=coinbase)](https://buy.stripe.com/dRm4gy1Nc4vi42p00JaVa0y)          |
 
 ### 🌍 Summary
 
