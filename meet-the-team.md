@@ -7,7 +7,36 @@ coverY: 0
 
 # 🕵️‍♂️ Meet the Team
 
-<div><figure><img src=".gitbook/assets/IMG_8923.jpeg" alt="The Multitalented Dev and Artist Driving Innovation in the Metaverse" width="188"><figcaption><p><a href="https://github.com/Navajjoo/"><em><mark style="color:blue;"><strong>NAVAJJOO</strong></mark></em></a><br>The Multitalented Dev and Artist Driving Innovation in the AquaTerra World</p></figcaption></figure> <figure><img src=".gitbook/assets/Anime Avatar Designer_cubism, cyberpunk, avatar, boy_image-0_1689097056.png" alt="The Creative Crypto Enthusiast Driving Game Development Forward" width="384"><figcaption><p><a href="https://github.com/Cherokkee888/"><em><mark style="color:orange;"><strong>CHEROKKEE</strong></mark></em></a><br>The Creative Crypto Enthusiast Driving Game Development Forward</p></figcaption></figure> <figure><img src=".gitbook/assets/Character Portraits_cyberpunk, cubism, avatar, boy_image-2_1689275668.png" alt="The Mastermind Developer Behind Rainbowland Metaverse" width="384"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FR</strong></mark></em></a><em><mark style="color:green;"><strong>IEDRICH</strong></mark></em><br>The Mastermind Developer Behind AquaTerra World</p></figcaption></figure> <figure><img src=".gitbook/assets/1.png" alt="The Creative Design Guru of Our Project Team" width="375"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><mark style="color:orange;"><strong>LANDLORD</strong></mark></a><br>The Creative Design Guru of Our Project Team</p></figcaption></figure></div>
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/IMG_2082.jpeg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
-<figure><img src=".gitbook/assets/8dfa99ef-6412-4b74-a11f-6514ab0b5f44.jpeg" alt="" width="188"><figcaption><p><em><mark style="color:blue;"><strong>GALACTONIX</strong></mark></em><br>Meme Coin Dev</p></figcaption></figure>
+{% column %}
+[Alexander L.](https://www.linkedin.com/in/luntick/)\
+AI Engineer. Co-founder of NICS AI Ecosystem and AquaTerra World,\
+decentralized AI for knowledge, science, and business.\
+I build AI systems, automate businesses,\
+and create intelligent agents for real-world applications.
+{% endcolumn %}
+{% endcolumns %}
 
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/IMG_2083.jpeg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+[Aleksandr T.](https://www.linkedin.com/in/alekstoch/)
+
+The Creative Design Guru of Our Project Team. Co-founder of NICS AI Ecosystem and AquaTerra World. SaaS, Engineer, Digital Project Manager, Graphic designer.
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+
+
+<figure><img src=".gitbook/assets/1.png" alt="The Creative Design Guru of Our Project Team" width="188"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><mark style="color:orange;"><strong>LANDLORD</strong></mark></a><br></p></figcaption></figure>
+
+<div><figure><img src=".gitbook/assets/Anime Avatar Designer_cubism, cyberpunk, avatar, boy_image-0_1689097056.png" alt="The Creative Crypto Enthusiast Driving Game Development Forward" width="128"><figcaption><p><a href="https://github.com/Cherokkee888/"><em><mark style="color:orange;"><strong>CHEROKKEE</strong></mark></em></a><br>The Creative Crypto Enthusiast Driving Game Development Forward</p></figcaption></figure> <figure><img src=".gitbook/assets/Character Portraits_cyberpunk, cubism, avatar, boy_image-2_1689275668.png" alt="The Mastermind Developer Behind Rainbowland Metaverse" width="128"><figcaption><p><a href="https://opensea.io/collection/rainbow-creatures-cre/drop?tab=team"><em><mark style="color:green;"><strong>FR</strong></mark></em></a><em><mark style="color:green;"><strong>IEDRICH</strong></mark></em><br>The Mastermind Developer Behind AquaTerra World</p></figcaption></figure></div>
