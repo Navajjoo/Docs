@@ -58,7 +58,7 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ***
 
-### 🖥 Hardware (One-Time, amortized)
+### 🖥 Hardware (One-Time)
 
 <table><thead><tr><th>Category</th><th>Service / Description</th><th>Cost (USD)</th><th width="136">Amortized Monthly (USD)</th><th>Support</th></tr></thead><tbody><tr><td>Developer Hardware</td><td>Apple MacBook Pro (M4 Max, 16-core CPU/40-core GPU, 128GB RAM, 1TB SSD)</td><td>€4000</td><td>~€180</td><td><a href="https://buy.stripe.com/00waEW8bA1j6eH328RaVa0o">Support</a></td></tr><tr><td>VR Testing</td><td>Meta Quest 3 Pro + accessories</td><td>€1,200</td><td>~€50</td><td><a href="https://buy.stripe.com/5kQdR83Vk7HueH300JaVa0p">Support</a></td></tr><tr><td>Mac Studio M3 Ultra</td><td>32-core CPU, 80-core GPU, 512 GB RAM, 16 TB SSD</td><td>€4,529</td><td>~€160</td><td><a href="https://buy.stripe.com/4gMcN42RgbXKbuR9BjaVa0q">Support</a></td></tr><tr><td>Servers (local dev)</td><td>Mini-cluster for testing</td><td>€4,000</td><td>~€120</td><td><a href="https://buy.stripe.com/00w14mezYf9WfL714NaVa0r">Support</a></td></tr><tr><td><strong>Total (Hardware)</strong></td><td></td><td>€13<strong>,729</strong></td><td>€<strong>510</strong></td><td><a href="https://buy.stripe.com/cNi14m4Zo9PCfL77tbaVa0s">Support HW Total</a></td></tr></tbody></table>
 
@@ -66,12 +66,12 @@ Supporters of our project can help us cover these expenses either with **monthly
 
 ### 📑 Documentation & Graphics
 
-| Category                    | Service / Description             | Monthly Cost (EUR) | Support                                                                                                                                                               |
-| --------------------------- | --------------------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Documentation               | GitBook (team plan)               | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-brightgreen?style=for-the-badge\&logo=buymeacoffee)](https://buy.stripe.com/bJe5kC4ZobXKfL76p7aVa0v) |
-| Graphics Tool               | Lavabla (design & creative suite) | €100               | [![Support €100](https://img.shields.io/badge/Support-%E2%82%AC100-blue?style=for-the-badge\&logo=paypal)](https://buy.stripe.com/7sY28q63s8Ly8iF8xfaVa0w)            |
-| Graphics Tool               | Gamma (presentation & design)     | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-brightgreen?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00w9ASezY5zm8iF4gZaVa0x)       |
-| **Total (Docs & Graphics)** |                                   | **€140**           | [![Support €140](https://img.shields.io/badge/Support-%E2%82%AC140-blue?style=for-the-badge\&logo=coinbase)](https://buy.stripe.com/dRm4gy1Nc4vi42p00JaVa0y)          |
+| Category                             | Service / Description      | Monthly Cost (EUR) | Support                                                                                                                                                          |
+| ------------------------------------ | -------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| GetBook                              | Documentation hosting      | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/bJe5kC4ZobXKfL76p7aVa0v)        |
+| Lavabla                              | Graphics & branding        | €100               | [![Support €100](https://img.shields.io/badge/Support-%E2%82%AC100-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/7sY28q63s8Ly8iF8xfaVa0w)      |
+| Gamma                                | Presentation & design tool | €20                | [![Support €20](https://img.shields.io/badge/Support-%E2%82%AC20-green?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/00w9ASezY5zm8iF4gZaVa0x)        |
+| **Total (Documentation & Graphics)** |                            | **€140**           | [![Support Total €140](https://img.shields.io/badge/Support-%E2%82%AC140-blue?style=for-the-badge\&logo=stripe)](https://buy.stripe.com/dRm4gy1Nc4vi42p00JaVa0y) |
 
 ### 🌍 Summary
 
