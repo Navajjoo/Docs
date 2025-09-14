@@ -12,7 +12,7 @@ coverY: 0
 {% endcolumn %}
 
 {% column %}
-[**Alexander&#x20;**<mark style="color:blue;">**L.**</mark>](https://www.linkedin.com/in/luntick/)\
+[<mark style="color:purple;">**Alexander L.**</mark>](https://www.linkedin.com/in/luntick/)\
 AI Engineer. Co-founder of NICS AI Ecosystem and AquaTerra World,\
 decentralized AI for knowledge, science, and business.\
 I build AI systems, automate businesses,\
@@ -48,7 +48,7 @@ The Creative Crypto Enthusiast Driving Game Development Forward
 {% endcolumn %}
 
 {% column %}
-<mark style="color:purple;">**Friedrich**</mark>\
+<mark style="color:$danger;">**Friedrich**</mark>\
 The Mastermind Developer Behind AquaTerra World
 {% endcolumn %}
 {% endcolumns %}
