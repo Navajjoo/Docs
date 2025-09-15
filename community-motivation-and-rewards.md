@@ -1,64 +1,68 @@
 # 💕 Community Motivation & Rewards
 
-We believe that community support should never go unnoticed.\
-Those who help us cover operational costs are not only backers of our project, but also co-creators of the decentralized future.
+## 🎁 Community Rewards System
 
-Here are the ways our community can benefit from supporting us:
+We believe that **community support should never go unnoticed**.\
+Those who help us cover operational costs are not only **backers of our project**, but also **co-creators of the decentralized future**.
+
+Here’s how our community benefits from supporting us:
 
 ***
 
 ### 💖 1. Emotional & Social Value
 
-* Supporting the project brings the joy of being part of something bigger.
-* Early backers become part of our **Founding Community**, helping us build the very foundation of the Metaverse.
-* Your name will be featured on our **"Wall of Gratitude"** inside the Metaverse.
+* Feel the joy of being part of something bigger.
+* Early backers join our **Founding Community**, building the foundation of the Metaverse.
+* Your name will appear on our _Wall of Gratitude_ inside the Metaverse.
 
 ***
 
 ### 🌍 2. In-World Assets
 
-* Monthly contributors may receive **virtual land plots**, **unique NFTs**, or **special items** within the Metaverse.
+* Monthly contributors may receive **virtual land plots, unique NFTs, or special items**.
 * Assets can be collected, traded, or used directly in the world.
-* Example: A supporter covering $100/month could receive a **unique apartment NFT** once every 3 months.
+* _Example_: A $100/month supporter could receive a **unique apartment NFT every 3 months**.
 
 ***
 
 ### 🪙 3. Token Rewards
 
-* Contributors may receive $**NICS tokens** as part of a monthly airdrop.
-* Tokens can be used for governance, access, or future marketplace activities.
-* Example: Each $1 of contribution → rewarded with a proportional amount of tokens (at a fixed rate set by the project).
+* Contributors may receive **$NICS tokens** via monthly airdrops.
+* Tokens can be used for governance, access, or marketplace activities.
+* _Example_: **$1 contributed → proportional $NICS tokens** at a fixed rate.
 
 ***
 
 ### 🗳 4. Governance & Exclusive Access
 
-* Backers can gain **early access** to closed beta features.
-* Voting rights on project decisions (treasury spending, roadmap priorities).
-* Access to exclusive **supporters-only Discord channels** and AMAs with the dev team.
+* Early access to **closed beta features**.
+* Voting rights on **project treasury & roadmap**.
+* Access to **supporters-only Discord** channels + AMAs with the dev team.
 
 ***
 
 ### 🌟 5. Recognition & Legacy
 
-* Top contributors’ names (or avatars) will appear in public spaces inside the Metaverse.
-* Special **titles and badges** (e.g., "Early Patron", "Metaverse Builder", "Founding Supporter").
-* Permanent listing in our WhitePaper as Founding Backers.
+* Top contributors’ names (or avatars) appear in **public Metaverse spaces**.
+* Special badges & titles (_“Early Patron”_, _“Metaverse Builder”_, _“Founding Supporter”_).
+* Permanent listing in our **WhitePaper** as _Founding Backers_.
 
 ***
 
-### 🎁 Future Reward Ideas
+## 🎯 Active Rewards Program — Farming $REWARDS
 
-* **Merchandise**: exclusive supporter t-shirts, hoodies, or posters.
-* **Revenue Sharing**: long-term backers could get a small % of revenue streams when the project scales.
-* **IRL Events**: invitations to community meetups, hackathons, and conferences.
+Right now, our community can **earn daily by farming $REWARDS tokens** on **EbisusBay**.\
+Stake your **Radiant Residence Tower 1** and receive **6.7M $REWARDS per day**!
 
 ***
 
-### 🙌 Why Support?
+### 🏠 Start Farming
 
-Supporting our monthly costs means:
+[![🏠 Stake Radiant Residence Tower 1](https://img.shields.io/badge/Stake-Radiant%20Residence%20Tower%201-2E8B57?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x157b802673ddc5510a32abd2628ca004cef08509)\
+[![🏙️ Stake Radiant Residence Tower 2](https://img.shields.io/badge/Stake-Radiant%20Residence%20Tower%202-4682B4?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0xd4ba9ba63d317c48800a55c78e389346193aa972)\
+[![🌍 Stake LANDs](https://img.shields.io/badge/Stake-LANDs-DAA520?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x5942a49921aa5e85cb3aa29404706f77f25f5443)\
+[![🌌 Stake Milky Way Marvels](https://img.shields.io/badge/Stake-Milky%20Way%20Marvels-8A2BE2?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x8ed5d58b12fea0960c625592081d4090b1510fbc)\
+[![🪙 Stake RAVERSE](https://img.shields.io/badge/Stake-RAVERSE-CD853F?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0xbbb2337955cff3e2ca4a64a06f2663d98ebdfc7c)\
+[![🔗 Stake LP Tokens (RAVERSE)](https://img.shields.io/badge/Stake-LP%20Tokens%20\(RAVERSE\)-FF4500?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x1faa0ed25c706bcc1282032435619ce69fd97e77)
 
-* The Metaverse can stay alive and grow.
-* The ecosystem remains transparent, decentralized, and community-powered.
-* Every backer becomes part of history — not just a donor, but a **builder of the future**.
+***
