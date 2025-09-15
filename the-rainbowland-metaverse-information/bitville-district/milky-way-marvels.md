@@ -4,64 +4,107 @@ description: Crypto Planets
 
 # 🌎 Milky Way Marvels
 
-**Welcome to Milky Way Marvels**, a groundbreaking iNFT experience where gaming, science, and cutting-edge technology merge into one visionary journey across the galaxy. More than a game, Milky Way Marvels is a **cosmic simulation of exploration, terraforming, and resource colonization**, powered by blockchain and enriched by artificial intelligence.
+## 🌌 Milky Way Marvels — Cosmic iNFT Adventure
 
-#### Beyond a Game: A Galactic Simulation
+Welcome to **Milky Way Marvels**, a groundbreaking iNFT experience where gaming, science, and cutting-edge technology merge into a visionary journey across the galaxy.
 
-As a space explorer, you are not only discovering planets - you are **shaping entire worlds**. Each planet you encounter is a unique iNFT, inscribed on the Cronos blockchain and available through platforms like EbisusBay, making every celestial body a truly rare collectible with verifiable ownership. But these planets are more than digital art - they are **living simulations** that evolve with your actions and decisions.
+More than a game, Milky Way Marvels is a **cosmic simulation of exploration, terraforming, and resource colonization**, powered by blockchain and enriched with artificial intelligence.
 
-#### Key Features for 2025 and Beyond:
+***
 
-🚀 **AI-Powered Exploration**\
-Artificial intelligence acts as your co-pilot, mission planner, and planetary scanner. It analyzes the data you collect, helps you craft strategies for interstellar travel, and even simulates how discovered planets could be terraformed and colonized in future stages of the game.
+### ✨ Beyond a Game: A Galactic Simulation
 
-🌌 **Galactic Journey & Missions**\
-Travel between star systems by completing resource-gathering missions guided by the Captain of your ship. These missions simulate the challenges of real cosmic exploration: navigation, supply management, and planetary landing risks.
+As a space explorer, you are not just discovering planets — you are shaping entire worlds.\
+Each planet you encounter is a **unique iNFT**, recorded on the **Cronos blockchain** and available through platforms like **EbisusBay**, making every celestial body a **rare collectible with verifiable ownership**.
 
-🌍 **Terraforming & Colonization**\
-Planets aren’t just static iNFTs - they can be **terraformed and developed**. Players can initiate terraforming protocols to transform barren worlds into habitable environments, complete with evolving ecosystems, colonies, and infrastructure.
+Planets are **living simulations**, evolving according to your actions and decisions.
 
-⚒️ **Resource Extraction & GeoMining**\
-Every new planet contains hidden resources, represented by **Elemental Essence iNFTs**. These are more than just game items - they simulate real elements essential for sustaining life, powering ships, and developing civilizations. Players engage in **geo-mining** to extract these resources, trade them with others, or combine them into formulas required for interstellar travel.
+***
 
-🛰️ **Dynamic AI-Driven Galaxy Map**\
-The galaxy is alive and always expanding. AI generates new star systems and rare planetary events, ensuring that no two journeys are alike. Black holes, supernovae, and asteroid belts will challenge explorers, while rare planetary alignments unlock hidden missions and treasures.
+### 🚀 Key Features
 
-💱 **Trade, Build, and Compete**\
-Planets and resources can be traded or sold in the marketplace, enabling a fully functioning **player-driven economy**. Compete in galactic tournaments, build fleets of ships, and establish colonies that expand your influence across the stars.
+#### AI-Powered Exploration
 
-#### Roadmap:
+Artificial intelligence acts as your co-pilot, mission planner, and planetary scanner. It analyzes collected data, crafts strategies for interstellar travel, and simulates terraforming and colonization processes.
 
-1. **Minting of Milky Way Marvels Planet iNFTs** - Each planet becomes a unique collectible.
-2. **Minting of Elemental Essence iNFTs** - Resource tokens unlock the potential for travel, terraforming, and trade.
-3. **Milky Way Marvels App Launch** - A fully immersive gaming platform with AI-powered exploration tools.
-4. **Terraforming & Colony Modules** - Players begin transforming planets and establishing long-term civilizations.
-5. **Cross-Metaverse Portals** - Integration with other AquaTerra World districts and parallel timelines.
+#### Galactic Journey & Missions
 
-#### Social & Educational Impact
+Travel between star systems by completing resource-gathering missions guided by your ship’s Captain. Manage navigation, supplies, and planetary landing risks.
 
-Milky Way Marvels is more than entertainment — it is a **platform for inspiration, learning, and collaboration**. Inspired by real-world space exploration missions, the game introduces players to concepts like astrophysics, planetary geology, and sustainable colonization. Schools, universities, and research organizations can use it as an **interactive educational tool**, making science and technology engaging and accessible.
+#### Terraforming & Colonization
 
-By combining play-to-earn mechanics with real scientific models, Milky Way Marvels also encourages participants to think critically about the future of humanity:
+Planets can be terraformed and developed into habitable environments with evolving ecosystems, colonies, and infrastructure.
 
-* How might we terraform a barren world?
-* What resources are essential for survival beyond Earth?
-* How do we build fair and sustainable economies in new frontiers?
+#### Resource Extraction & GeoMining
 
-Through these simulations, Milky Way Marvels fosters **creativity, problem-solving, and global awareness**, reminding players that the choices we make in virtual worlds may one day reflect our real journey to the stars.
+Each planet contains hidden resources represented by **Elemental Essence iNFTs**.
 
-#### The Future of Milky Way Marvels
+* Resources vary in rarity and type.
+* Can be mined on planets or on **AquaTerra World LANDs**.
+* Resources are stored as **NFTs**, one NFT = one unique resource.
+* Trade or exchange with other players.
+* Essential for travel, terraforming, and development.
 
-This is more than a game. Milky Way Marvels is a **visionary project for the future of humanity in space**, modeling how we might one day terraform planets, colonize star systems, and mine resources beyond Earth. It is both entertainment and a **digital experiment in interstellar civilization building**, where blockchain ensures ownership, AI provides intelligence, and players shape the destiny of the galaxy.
+#### Dynamic AI-Driven Galaxy Map
 
-🌠 Prepare for an epic adventure that combines **cosmic wonder, technological innovation, and human imagination**. The Milky Way awaits.\
-\
-**Roadmap:**\
-**1. Minting of** [**Milky Way Marvels NFTs**](https://cryptoplanets.rainbowland.org) - Planet iNFTs become available.\
-**2. Minting of** [**Elemental Essence NFTs**](https://goldenape.rainbowland.org) - Resource iNFTs are introduced.\
-**3. Milky Way Marvels App** - The game officially launches.\
-\
-More information about Milky Way Marvels game [here](https://www.cryptoplanets.rainbowland.org/)\
+AI continuously generates new star systems, rare events, and planetary phenomena. Black holes, supernovae, and asteroid belts present challenges, while rare alignments unlock hidden missions and rewards.
 
+#### Trade, Build, and Compete
 
-Prepare for an epic adventure through the cosmos in Milky Way Marvels!
+* Fully functioning player-driven economy.
+* Trade planets and resources.
+* Build fleets, colonies, and expand influence.
+* Participate in galactic tournaments.
+
+***
+
+### 🎮 Prototype Overview
+
+Our current **Milky Way Marvels prototype** allows users to experience the core gameplay:
+
+* **Left Panel:** Default login view with the base planet.
+* **Right Panel:** Displays the planet you are about to travel to. If you own Milky Way Marvels iNFTs, it shows that planet.
+* **Center Panel:** Action buttons:
+  1. **Mint Resource** — becomes available after visiting a planet with resources.
+  2. **Fly** — travel from one planet to another.
+     * Requires **fuel** (RAVERSE coin).
+     * In some cases, also requires a **specific resource** if the target planet has rare materials.
+     * Resources can be purchased or exchanged with other users.
+* **Bottom Panel:**
+  * Displays your **resources**, **fuel**, and other inventory info.
+  * Optional dropdown with available planets for selection.
+
+All resources are individual, vary in rarity, and are tied to **Elemental Essence NFTs**. They can be mined on planets or LANDs and used for travel, terraforming, and game progression.
+
+***
+
+### 🌠 Roadmap & Next Steps
+
+1. **Minting of Milky Way Marvels Planet iNFTs** — Each planet becomes a unique collectible.
+2. **Minting of Elemental Essence iNFTs** — Unlock resources for travel, terraforming, and trade.
+3. **Milky Way Marvels App Launch** — Full gameplay with AI-powered exploration.
+4. **Terraforming & Colony Modules** — Transform planets and build civilizations.
+5. **Cross-Metaverse Portals** — Integration with AquaTerra World districts.
+
+***
+
+### 🛠 Prototype Actions
+
+[![🚀 Mint Resource](https://img.shields.io/badge/Mint-Resource-1E90FF?style=for-the-badge)](https://your-prototype-link.com)\
+[![🛸 Fly to Planet](https://img.shields.io/badge/Fly-Planet-32CD32?style=for-the-badge)](https://milky-way-marvels.lovable.app/)
+
+_Buttons are fully interactive in the prototype. Users can mint resources or fly to planets depending on inventory and fuel._
+
+***
+
+### 🌌 Educational & Social Impact
+
+Milky Way Marvels is also a platform for learning and collaboration:
+
+* Introduces astrophysics, planetary geology, and sustainable colonization concepts.
+* Schools, universities, and research orgs can use it interactively.
+* Encourages critical thinking about terraforming, resource management, and building sustainable economies.
+
+***
+
+Prepare for an epic adventure across the stars — **Milky Way Marvels** awaits.
