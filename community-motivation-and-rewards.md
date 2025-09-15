@@ -9,6 +9,17 @@ Here’s how our community benefits from supporting us:
 
 ***
 
+### 🏠 Start Farming
+
+[![🏠 Stake Radiant Residence Tower 1](https://img.shields.io/badge/Stake-Radiant%20Residence%20Tower%201-2E8B57?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x157b802673ddc5510a32abd2628ca004cef08509)\
+[![🏙️ Stake Radiant Residence Tower 2](https://img.shields.io/badge/Stake-Radiant%20Residence%20Tower%202-4682B4?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0xd4ba9ba63d317c48800a55c78e389346193aa972)\
+[![🌍 Stake LANDs](https://img.shields.io/badge/Stake-LANDs-DAA520?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x5942a49921aa5e85cb3aa29404706f77f25f5443)\
+[![🌌 Stake Milky Way Marvels](https://img.shields.io/badge/Stake-Milky%20Way%20Marvels-8A2BE2?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x8ed5d58b12fea0960c625592081d4090b1510fbc)\
+[![🪙 Stake RAVERSE](https://img.shields.io/badge/Stake-RAVERSE-CD853F?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0xbbb2337955cff3e2ca4a64a06f2663d98ebdfc7c)\
+[![🔗 Stake LP Tokens (RAVERSE)](https://img.shields.io/badge/Stake-LP%20Tokens%20\(RAVERSE\)-FF4500?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x1faa0ed25c706bcc1282032435619ce69fd97e77)
+
+***
+
 ### 💖 1. Emotional & Social Value
 
 * Feel the joy of being part of something bigger.
@@ -53,16 +64,5 @@ Here’s how our community benefits from supporting us:
 
 Right now, our community can **earn daily by farming $REWARDS tokens** on **EbisusBay**.\
 Stake your **Radiant Residence Tower 1** and receive **6.7M $REWARDS per day**!
-
-***
-
-### 🏠 Start Farming
-
-[![🏠 Stake Radiant Residence Tower 1](https://img.shields.io/badge/Stake-Radiant%20Residence%20Tower%201-2E8B57?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x157b802673ddc5510a32abd2628ca004cef08509)\
-[![🏙️ Stake Radiant Residence Tower 2](https://img.shields.io/badge/Stake-Radiant%20Residence%20Tower%202-4682B4?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0xd4ba9ba63d317c48800a55c78e389346193aa972)\
-[![🌍 Stake LANDs](https://img.shields.io/badge/Stake-LANDs-DAA520?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x5942a49921aa5e85cb3aa29404706f77f25f5443)\
-[![🌌 Stake Milky Way Marvels](https://img.shields.io/badge/Stake-Milky%20Way%20Marvels-8A2BE2?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x8ed5d58b12fea0960c625592081d4090b1510fbc)\
-[![🪙 Stake RAVERSE](https://img.shields.io/badge/Stake-RAVERSE-CD853F?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0xbbb2337955cff3e2ca4a64a06f2663d98ebdfc7c)\
-[![🔗 Stake LP Tokens (RAVERSE)](https://img.shields.io/badge/Stake-LP%20Tokens%20\(RAVERSE\)-FF4500?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x1faa0ed25c706bcc1282032435619ce69fd97e77)
 
 ***
