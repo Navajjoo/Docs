@@ -2,7 +2,7 @@
 description: LAND and Assets in the AquaTerra World
 ---
 
-# 🛠️ Explanation of Land Characteristics in the AquaTerra World:
+# 🛠️ Explanation of LAND Characteristics in the AquaTerra World:
 
 In the vibrant and evolving AquaTerra World, every piece of LAND is more than just virtual territory — it is a **living, intelligent asset**, enhanced by **AI guardians, blockchain technology, and immersive 3D environments**. With **resources, intelligent companions, real estate, and customizable 3D assets**, AquaTerra World sets the stage for a new era of digital civilization in 2025.
 
@@ -13,6 +13,31 @@ In the vibrant and evolving AquaTerra World, every piece of LAND is more than ju
 Each LAND is uniquely positioned on the AquaTerra World map, defined by its **X and Y coordinates**. From bustling city hubs to tranquil beachfronts and resource-rich industrial zones, your LAND’s **location impacts its economy, rarity, and community connections**.
 
 ***
+
+## 🪙 Economy and Staking
+
+### 🌍 AquaTerra World — LANDs Farming
+
+Owners of AquaTerra World **LANDs** can farm their plots on **EbisusBay**.\
+Farming is available only for the **LANDs you hold in your wallet**, allowing you to generate rewards and actively participate in the world’s decentralized economy
+
+[![🌍 Stake LANDs](https://img.shields.io/badge/Stake-LANDs-DAA520?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x5942a49921aa5e85cb3aa29404706f77f25f5443)
+
+***
+
+### 🌌 Unique Resources of LANDs
+
+Each LAND in AquaTerra World contains its own **unique resource** — one of the elements from the periodic table.\
+At the next stage, these resources can be **minted into separate iNFTs**, forming your personal collection.\
+They will be usable for:
+
+* developing and upgrading your **land plots and houses**,
+* unlocking features in **mini-arcade games**,
+* supporting gameplay in **Milky Way Marvels** (exploration, flights, and resource gathering).
+
+These resources are essential for long-term progress and expansion within AquaTerra World.
+
+###
 
 ### 📋 Intelligent Properties & Guardians
 

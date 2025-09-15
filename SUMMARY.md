@@ -19,7 +19,7 @@
   * [🐵 Golden Ape Collection](the-rainbowland-metaverse-information/art-gallery-or-capital-city/golden-ape-collection.md)
 * [🎭 BitVille District](the-rainbowland-metaverse-information/bitville-district/README.md)
 * [🏝️ What is AquaTerra World $LANDs?](the-rainbowland-metaverse-information/what-is-the-rainbowland-usdlands.md)
-* [🛠️ Explanation of Land Characteristics in the AquaTerra World:](the-rainbowland-metaverse-information/explanation-of-land-characteristics-in-the-metaverse.md)
+* [🛠️ Explanation of LAND Characteristics in the AquaTerra World:](the-rainbowland-metaverse-information/explanation-of-land-characteristics-in-the-metaverse.md)
 * [🏨 🏙️ Radiant Residences Tower I](the-rainbowland-metaverse-information/radiant-residences-by-the-rainbowland-metaverse/README.md)
 * [🏢 🏙️ Radiant Residences Tower II](the-rainbowland-metaverse-information/radiant-residences-tower-ii.md)
 * [🌆 AquaTerra World Map and Districts](the-rainbowland-metaverse-information/aquaterra-world-map-and-districts.md)
