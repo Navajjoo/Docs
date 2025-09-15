@@ -33,16 +33,21 @@ The defining feature of Tower I is the **intelligent NFT entities** integrated i
 
 ***
 
-### 🪙 Economy and Staking
+## 🪙 Economy and Staking
 
-Radiant Residences iNFT owners can:
+Radiant Residences iNFT owners can:\
+📈 Stake their iNFTs and earn daily rewards in **$RaVerse**, the official currency of Rainbowland.\
+🏦 Rent out apartments or office spaces to other users.\
+💼 Launch shops, restaurants, and commercial venues with real economic activity.\
+🎭 Host cultural, social, or business events.
 
-* 📈 **Stake their iNFTs** and earn daily rewards in **$RaVerse**, the official currency of Rainbowland.
-* 🏦 Rent out apartments or office spaces to other users.
-* 💼 Launch shops, restaurants, and commercial venues with real economic activity.
-* 🎭 Host cultural, social, or business events.
+The tower’s economy runs on decentralized principles, where every property owner becomes part of the shared financial ecosystem.
 
-The tower’s economy runs on **decentralized principles**, where every property owner becomes part of the shared financial ecosystem.
+***
+
+### 🏠 Start Staking
+
+[![🏠 Stake Radiant Residence Tower 1](https://img.shields.io/badge/Stake-Radiant%20Residence%20Tower%201-2E8B57?style=for-the-badge)](https://app.ebisusbay.com/dex/farms/community/0x157b802673ddc5510a32abd2628ca004cef08509)
 
 ***
 
