@@ -16,9 +16,32 @@ From **September 16 to September 23, 2025**, you can earn points by buying and s
 
 ### 🎁 Prizes
 
-🥇 **1st Place** — Grand Reward (to be revealed soon!)\
-🥈 **2nd Place** — Special Bonus\
-🥉 **3rd Place** — Exclusive NFT
+🥇 **1st Place — Grand Reward**
+
+* 200M $RAVERSE
+* 50K $NICS
+* 1x Radiant Residences Tower 1 — Office
+* 1x Radiant Residences Tower 2 — Penthouse
+* 10x Milky Way Marvels
+* 10x LANDs
+
+***
+
+🥈 **2nd Place — Special Bonus**
+
+* 100M $RAVERSE
+* 10K $NICS
+* 1x Radiant Residences Tower 2 — Apartment
+* 5x Milky Way Marvels
+* 5x LANDs
+
+***
+
+🥉 **3rd Place — Exclusive Reward**
+
+* 10M $RAVERSE
+* 1x Milky Way Marvels
+* 1x LAND
 
 ***
 
