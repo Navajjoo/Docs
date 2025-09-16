@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🌆 What is AquaTerra World?](README.md)
+  * [🏆 Radiant Residence Tower 1 Trading Contest](what-is-aquaterra-world/radiant-residence-tower-1-trading-contest.md)
 * [About AquaTerra World](about-aquaterra-world.md)
 * [Purpose of AquaTerra World and Other Metaverses?](purpose-of-aquaterra-world-and-other-metaverses.md)
 * [💕 Community Motivation & Rewards](community-motivation-and-rewards.md)
