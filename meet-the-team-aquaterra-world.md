@@ -38,7 +38,7 @@ The Creative Design Guru of Our Project Team. Co-founder of NICS AI Ecosystem an
 
 {% column %}
 [**Cherokkee**](https://github.com/Cherokkee888/)\
-The Creative Crypto Enthusiast Driving Game Development Forward
+Unity Developer Behind AquaTerra World
 {% endcolumn %}
 {% endcolumns %}
 
@@ -49,7 +49,7 @@ The Creative Crypto Enthusiast Driving Game Development Forward
 
 {% column %}
 <mark style="color:$danger;">**Friedrich**</mark>\
-The Mastermind Developer Behind AquaTerra World
+Smart Contract & Blockchain Developer Behind AquaTerra World
 {% endcolumn %}
 {% endcolumns %}
 
