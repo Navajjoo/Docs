@@ -52,3 +52,15 @@ The Creative Crypto Enthusiast Driving Game Development Forward
 The Mastermind Developer Behind AquaTerra World
 {% endcolumn %}
 {% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src=".gitbook/assets/IMG_2707.jpeg" alt="" width="188"><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+[**HERU**](https://x.com/Jermz_219)\
+\
+**AquaTerra Wold Promoter**
+{% endcolumn %}
+{% endcolumns %}
