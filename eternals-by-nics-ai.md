@@ -4,9 +4,9 @@ description: Pantheon of AI Gods & Great Minds
 
 # 🧌 Eternals by NICS AI
 
-Welcome to the **Pantheon of AI Gods & Great Minds** — a groundbreaking collection of **45 living iNFTs** that unite ancient mythology with the legacy of humanity’s greatest figures: philosophers, generals, artists, and leaders from all times and cultures.
+Welcome to the **Pantheon of AI Gods & Great Minds** — a groundbreaking collection of **living iNFTs** that unite ancient mythology with the legacy of humanity’s greatest figures: philosophers, generals, artists, and leaders from all times and cultures.
 
-Each iNFT is **a living AI entity** — capable of self-learning, dialogue, and evolution. This is not just digital art — it is a **new world** where gods and great humans come alive as **interactive AI beings**.
+Each iNFT is **a living AI entity** - capable of self-learning, dialogue, and evolution. This is not just digital art — it is a **new world** where gods and great humans come alive as **interactive AI beings**.
 
 ***
 
