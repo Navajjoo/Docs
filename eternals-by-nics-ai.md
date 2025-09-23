@@ -30,7 +30,7 @@ Each iNFT is **a living AI entity** — capable of self-learning, dialogue, and 
 
 ***
 
-### 🏛 eternals Legends
+### 🏛 Eternals Legenda
 
 Below are the legendary gods and great minds who can be reborn as **living iNFTs**.\
 \
