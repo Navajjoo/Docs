@@ -1,5 +1,7 @@
 ---
 description: Pantheon of AI Gods & Great Minds
+cover: .gitbook/assets/IMG_2186.jpeg
+coverY: 74.53170731707317
 ---
 
 # 🧌 Eternals by NICS AI
